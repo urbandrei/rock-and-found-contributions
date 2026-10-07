@@ -1,0 +1,120 @@
+ROCK AND FOUND: CONTRIBUTOR AGREEMENT
+
+Version 1, October 7, 2026.
+
+This agreement is between you (the contributor) and Andrei Roman, who makes Rock and Found
+(the game). You agree to it by replying "I agree" to the message or form that links here,
+with the name you want credited, or by choosing "I agree" in the Rock Lab.
+
+It covers your contributions from before you agreed as well as everything after.
+
+If a later version of this agreement is published, it applies to what you contribute after
+you accept it. This version keeps covering what you contributed before.
+
+
+1. WHAT THIS COVERS
+
+"Your contributions" means anything you send for the game or make with its tools, including:
+
+  a. translations of the game's text into any language;
+  b. suggested edits to the game's writing: corrections, rewordings, notes on tone or
+     accuracy, and fact checks;
+  c. new rocks, minerals, fossils and other specimens: their shapes, colors, textures,
+     names, descriptions, test results and other data;
+  d. maps and layouts: room plans, shelf arrangements, sorting orders and similar work;
+  e. anything you make, rank, arrange or write in the Rock Lab, including votes, orderings,
+     notes and the rocks themselves;
+  f. any of the above made for downloadable content (DLC), expansions, updates, sequels or
+     other games and products in the Rock and Found series.
+
+
+2. IT IS VOLUNTARY
+
+  - You contribute because you want to. Nobody assigns you work, sets you deadlines or asks
+    for a set amount, and you can stop at any time without giving a reason.
+  - You are not an employee or contractor, and you are not paid for your contributions.
+  - Andrei may choose to thank contributors later, for example with game keys or payment,
+    but nothing in this agreement promises it. Any thank you is up to him.
+
+
+3. WHAT YOU ALLOW
+
+You keep the copyright in your contributions. You give Andrei, and anyone he works with to
+make, publish or sell the game or its series (such as a store, a publisher or a porting
+studio), permission to:
+
+  - use, copy, publish and sell your contributions as part of the game, its demo, its
+    updates, its DLC, its expansions and sequels, its store pages and its marketing, in
+    every country, with no time limit and at no cost;
+  - edit, shorten, correct or combine your contributions with other work;
+  - replace them later, for example with a paid professional translation, or not use them
+    at all.
+
+You cannot take this permission back once your contribution has been included in a released
+version of the game or of anything in section 1f. You will not object to the edits described
+above, as far as the law where you live allows you to agree to that.
+
+
+4. SUGGESTIONS AND IDEAS
+
+If you suggest an idea, a change or an edit, Andrei may use it, change it or not use it, in
+any of the ways in section 3, and owes you nothing for it beyond the credit in section 7. If
+the game later contains something similar to an idea you suggested, that does not by itself
+mean it came from you.
+
+
+5. THE ROCK LAB IS OPEN
+
+Rock and Found is built with the help of many free CC0 assets, and the Rock Lab gives back
+the same way: Andrei plans to let anyone use rocks made in the Rock Lab in their own
+projects, to help more games show rocks as they really are.
+
+So the ROCKS made in the Rock Lab, meaning their 3D models, their baked textures and their
+parameters (the numbers and settings that describe a rock's shape, color and look), may be
+released to the public under the Creative Commons CC0 1.0 public domain dedication
+(creativecommons.org/publicdomain/zero/1.0/). For your part in them:
+
+  - You dedicate your contributions to those rocks to the public domain under CC0 1.0, from
+    the moment Andrei releases them, and waive your rights in them as far as the law
+    allows.
+  - Once released, anyone may use, change and sell them for any purpose, including in
+    commercial games, without asking and without credit. That cannot be taken back.
+  - Nothing else is released this way: not your votes, orderings, notes or writing in the
+    Rock Lab, not your other contributions, and not the game's or the Rock Lab's code,
+    shaders, writing or other assets. Those are used only as section 3 describes.
+  - Andrei may also publish code later to help other engines show the rocks. That code will
+    carry its own license and is not part of this agreement.
+
+
+6. WHAT YOU PROMISE
+
+  - Your contributions are your own work, made by you.
+  - They are NOT made with machine translation or AI tools, and are not copied from someone
+    else's translation, text, model or data, unless that source is free to use for any
+    purpose (such as CC0) and you tell Andrei where it came from.
+  - You have the right to give the permissions above, and you are 18 or older.
+
+
+7. CREDIT
+
+  - You are credited in the game under the name you choose, or anonymously if you prefer.
+    You can ask to change or remove your credit name in a future update.
+  - If your work is later replaced or heavily edited, you stay credited for the version you
+    contributed.
+  - Under CC0, people who use Rock Lab rocks in their own projects are not required to
+    credit you, though they may.
+
+
+8. YOUR INFORMATION
+
+Your name, contact address, the version you agreed to and when are kept only to credit you
+and to show that you agreed. They are not shared or sold. To change your credit name or ask
+a question, message Andrei through the Rock and Found Discord.
+
+
+9. EVERYTHING ELSE
+
+  - There is no warranty either way: your contributions are used as they are, and you are
+    not responsible for how they are used.
+  - This is the whole agreement about your contributions. If any part of it does not hold
+    up where you live, the rest still applies.

@@ -1,0 +1,3898 @@
+{
+ "kinds": {
+  "Abalone": null,
+  "Acanthite": {
+   "description": "mineral, silver sulfide",
+   "en": "acanthite",
+   "labels": {
+    "de": "Akanthit",
+    "en": "acanthite",
+    "es": "acantita",
+    "fr": "acanthite",
+    "it": "acantite",
+    "ja": "針銀鉱",
+    "pl": "Akantyt",
+    "pt": "acantite",
+    "pt-br": "Acantita",
+    "ru": "акантит",
+    "uk": "акантит",
+    "zh": "螺状硫银矿"
+   },
+   "qid": "Q413498",
+   "titles": {
+    "dewiki": "Akanthit",
+    "eswiki": "Acantita",
+    "frwiki": "Acanthite",
+    "itwiki": "Acantite",
+    "jawiki": "針銀鉱",
+    "plwiki": "Akantyt",
+    "ptwiki": "Acantita",
+    "ruwiki": "Акантит",
+    "ukwiki": "Акантит",
+    "zhwiki": "螺状硫银矿"
+   }
+  },
+  "Albite": {
+   "description": "mineral, Na-feldspar, Na-silicate, tectosilicate",
+   "en": "albite",
+   "labels": {
+    "de": "Albit",
+    "en": "albite",
+    "es": "albita",
+    "fr": "albite",
+    "it": "albite",
+    "ja": "曹長石",
+    "ko": "조장석",
+    "pl": "albit",
+    "pt": "albite",
+    "pt-br": "albita",
+    "ru": "альбит",
+    "uk": "альбіт",
+    "zh": "钠长石",
+    "zh-cn": "钠长石",
+    "zh-hans": "钠长石"
+   },
+   "qid": "Q182264",
+   "titles": {
+    "dewiki": "Albit",
+    "eswiki": "Albita",
+    "frwiki": "Albite",
+    "itwiki": "Albite",
+    "jawiki": "曹長石",
+    "kowiki": "조장석",
+    "plwiki": "Albit",
+    "ptwiki": "Albita",
+    "ruwiki": "Альбит",
+    "ukwiki": "Альбіт",
+    "zhwiki": "钠长石"
+   }
+  },
+  "Allosaurus claw": null,
+  "Almandine": {
+   "description": "garnet, nesosilicate mineral",
+   "en": "almandine",
+   "labels": {
+    "de": "Almandin",
+    "en": "almandine",
+    "es": "almandino",
+    "fr": "almandin",
+    "it": "almandino",
+    "ja": "鉄礬柘榴石",
+    "ko": "알만딘",
+    "pl": "almandyn",
+    "ru": "альмандин",
+    "uk": "Альмандин",
+    "zh": "鐵鋁榴石"
+   },
+   "qid": "Q273663",
+   "titles": {
+    "dewiki": "Almandin",
+    "eswiki": "Almandino",
+    "frwiki": "Almandin",
+    "itwiki": "Almandino",
+    "jawiki": "鉄礬柘榴石",
+    "kowiki": "알만딘",
+    "plwiki": "Almandyn",
+    "ruwiki": "Альмандин",
+    "ukwiki": "Альмандин",
+    "zhwiki": "鐵鋁榴石"
+   }
+  },
+  "Amazonite Crystal": null,
+  "Amber": {
+   "description": "fossilized tree resin",
+   "en": "amber",
+   "labels": {
+    "de": "Bernstein",
+    "en": "amber",
+    "es": "ámbar",
+    "fr": "ambre",
+    "it": "ambra",
+    "ja": "コハク",
+    "ko": "호박",
+    "pl": "bursztyn",
+    "pt": "âmbar",
+    "pt-br": "âmbar",
+    "ru": "янтарь",
+    "uk": "бурштин",
+    "zh": "琥珀",
+    "zh-hans": "琥珀"
+   },
+   "qid": "Q25381",
+   "titles": {
+    "dewiki": "Bernstein",
+    "eswiki": "Ámbar",
+    "frwiki": "Ambre",
+    "itwiki": "Ambra (resina)",
+    "jawiki": "琥珀",
+    "kowiki": "호박 (화석)",
+    "plwiki": "Bursztyn",
+    "ptwiki": "Âmbar",
+    "ruwiki": "Янтарь",
+    "ukwiki": "Бурштин",
+    "zhwiki": "琥珀"
+   }
+  },
+  "Amethyst": {
+   "description": "mineral of quartz variety",
+   "en": "amethyst",
+   "labels": {
+    "de": "Amethyst",
+    "en": "amethyst",
+    "es": "amatista",
+    "fr": "améthyste",
+    "it": "ametista",
+    "ja": "アメシスト",
+    "ko": "자수정",
+    "pl": "ametyst",
+    "pt": "ametista",
+    "ru": "аметист",
+    "uk": "аметист",
+    "zh": "紫水晶"
+   },
+   "qid": "Q79058",
+   "titles": {
+    "dewiki": "Amethyst",
+    "eswiki": "Amatista",
+    "frwiki": "Améthyste",
+    "itwiki": "Ametista",
+    "jawiki": "アメシスト",
+    "kowiki": "자수정",
+    "plwiki": "Ametyst",
+    "ptwiki": "Ametista",
+    "ruwiki": "Аметист",
+    "ukwiki": "Аметист",
+    "zhwiki": "紫水晶"
+   }
+  },
+  "Amethyst Geode": null,
+  "Ametrine": {
+   "description": "mineral, quartz variety",
+   "en": "ametrine",
+   "labels": {
+    "de": "Ametrin",
+    "en": "ametrine",
+    "es": "Ametrino",
+    "fr": "Amétrine",
+    "ja": "アメトリン",
+    "pl": "Ametryn",
+    "pt": "bolivianita",
+    "ru": "аметрин",
+    "zh-cn": "紫黄晶"
+   },
+   "qid": "Q429774",
+   "titles": {
+    "dewiki": "Ametrin",
+    "eswiki": "Ametrino",
+    "frwiki": "Amétrine",
+    "jawiki": "アメトリン",
+    "plwiki": "Ametryn",
+    "ptwiki": "Bolivianita",
+    "ruwiki": "Аметрин"
+   }
+  },
+  "Ammolite": {
+   "description": "organic gemstone formed when it mixes with fossilized shell of extinct marine ammonite",
+   "en": "ammolite",
+   "labels": {
+    "de": "Ammolit",
+    "en": "ammolite",
+    "es": "Ammolita",
+    "fr": "Ammolite",
+    "ja": "アンモライト",
+    "pl": "Ammolit",
+    "ru": "Аммолит",
+    "zh": "斑彩石"
+   },
+   "qid": "Q473346",
+   "titles": {
+    "dewiki": "Ammolit",
+    "eswiki": "Ammolita",
+    "frwiki": "Ammolite",
+    "jawiki": "アンモライト",
+    "plwiki": "Ammolit",
+    "ruwiki": "Аммолит",
+    "zhwiki": "斑彩石"
+   }
+  },
+  "Ammonite (large)": null,
+  "Ammonite (small)": null,
+  "Andalusite": {
+   "description": "nesosilicate mineral",
+   "en": "andalusite",
+   "labels": {
+    "de": "Andalusit",
+    "en": "andalusite",
+    "es": "andalucita",
+    "fr": "Andalousite",
+    "it": "andalusite",
+    "ja": "紅柱石",
+    "ko": "홍주석",
+    "pl": "Andaluzyt",
+    "pt": "andaluzite",
+    "ru": "андалузит",
+    "uk": "Андалузит",
+    "zh": "红柱石",
+    "zh-cn": "红柱石",
+    "zh-hans": "红柱石"
+   },
+   "qid": "Q192637",
+   "titles": {
+    "dewiki": "Andalusit",
+    "eswiki": "Andalucita",
+    "frwiki": "Andalousite",
+    "itwiki": "Andalusite",
+    "jawiki": "紅柱石",
+    "kowiki": "홍주석",
+    "plwiki": "Andaluzyt",
+    "ptwiki": "Andaluzita",
+    "ruwiki": "Андалузит",
+    "ukwiki": "Андалузит",
+    "zhwiki": "红柱石"
+   }
+  },
+  "Apache Tears": null,
+  "Aquamarine": {
+   "description": "variety of beryl gemstone",
+   "en": "aquamarine",
+   "labels": {
+    "de": "Aquamarin",
+    "en": "aquamarine",
+    "es": "aguamarina",
+    "fr": "aigue-marine",
+    "it": "acquamarina",
+    "ja": "アクアマリン",
+    "ko": "아쿠아마린",
+    "pl": "akwamaryn",
+    "pt": "água-marinha",
+    "pt-br": "água-marinha",
+    "ru": "аквамарин",
+    "uk": "аквамарин",
+    "zh": "海蓝宝石"
+   },
+   "qid": "Q58959",
+   "titles": {
+    "dewiki": "Aquamarin",
+    "eswiki": "Aguamarina",
+    "frwiki": "Aigue-marine",
+    "itwiki": "Acquamarina (minerale)",
+    "jawiki": "アクアマリン",
+    "kowiki": "아쿠아마린",
+    "plwiki": "Akwamaryn",
+    "ptwiki": "Água-marinha",
+    "ruwiki": "Аквамарин",
+    "ukwiki": "Аквамарин",
+    "zhwiki": "海蓝宝石"
+   }
+  },
+  "Aragonite Sputnik": null,
+  "Arkose": {
+   "description": "sandstone variety rich in feldspath",
+   "en": "arkose",
+   "labels": {
+    "de": "Arkose",
+    "en": "arkose",
+    "es": "arcosa",
+    "fr": "arkose",
+    "it": "arcosa",
+    "ja": "花崗質砂岩",
+    "pl": "arkoza",
+    "pt": "arcose",
+    "ru": "Аркозы",
+    "uk": "Аркозовий пісковик",
+    "zh": "长石沙岩",
+    "zh-cn": "长石沙岩",
+    "zh-hans": "长石沙岩"
+   },
+   "qid": "Q673812",
+   "titles": {
+    "dewiki": "Arkose",
+    "eswiki": "Arcosa",
+    "frwiki": "Arkose",
+    "itwiki": "Arcose",
+    "plwiki": "Arkoza",
+    "ptwiki": "Arcose",
+    "ruwiki": "Аркозы",
+    "ukwiki": "Аркозовий пісковик"
+   }
+  },
+  "Arsenopyrite": {
+   "description": "sulfide mineral",
+   "en": "arsenopyrite",
+   "labels": {
+    "de": "Arsenopyrit",
+    "en": "arsenopyrite",
+    "es": "arsenopirita",
+    "fr": "Arsénopyrite",
+    "it": "Arsenopirite",
+    "ja": "硫砒鉄鉱",
+    "ko": "황비철석",
+    "pl": "arsenopiryt",
+    "pt": "arsenopirita",
+    "ru": "арсенопирит",
+    "uk": "арсенопірит",
+    "zh": "砷黃鐵礦",
+    "zh-cn": "砷黄铁矿",
+    "zh-hans": "砷黄铁矿"
+   },
+   "qid": "Q191939",
+   "titles": {
+    "dewiki": "Arsenopyrit",
+    "eswiki": "Arsenopirita",
+    "frwiki": "Arsénopyrite",
+    "itwiki": "Arsenopirite",
+    "jawiki": "硫砒鉄鉱",
+    "kowiki": "황비철석",
+    "plwiki": "Arsenopiryt",
+    "ptwiki": "Arsenopirita",
+    "ruwiki": "Арсенопирит",
+    "ukwiki": "Арсенопірит",
+    "zhwiki": "砷黃鐵礦"
+   }
+  },
+  "Asphalt Nugget": null,
+  "Autunite Plates": null,
+  "Aventurine": {
+   "description": "green quartz variety",
+   "en": "aventurine",
+   "labels": {
+    "de": "Aventurin-Quarz",
+    "en": "aventurine",
+    "es": "aventurina",
+    "fr": "aventurine",
+    "it": "avventurina",
+    "ja": "砂金石",
+    "ko": "사금석",
+    "pl": "awenturyn",
+    "pt": "aventurina",
+    "ru": "авантюрин",
+    "uk": "авантюрин",
+    "zh": "砂金石"
+   },
+   "qid": "Q429742",
+   "titles": {
+    "dewiki": "Aventurin-Quarz",
+    "eswiki": "Aventurina",
+    "frwiki": "Aventurine",
+    "itwiki": "Avventurina",
+    "jawiki": "砂金石",
+    "kowiki": "사금석",
+    "plwiki": "Awenturyn",
+    "ptwiki": "Aventurina",
+    "ruwiki": "Авантюрин",
+    "ukwiki": "Авантюрин",
+    "zhwiki": "砂金石"
+   }
+  },
+  "Azurite": {
+   "description": "carbonate mineral",
+   "en": "azurite",
+   "labels": {
+    "de": "Azurit",
+    "en": "azurite",
+    "es": "azurita",
+    "fr": "azurite",
+    "it": "azzurrite",
+    "ja": "藍銅鉱",
+    "ko": "남동석",
+    "pl": "Azuryt",
+    "pt": "azurite",
+    "pt-br": "azurita",
+    "ru": "азурит",
+    "uk": "азурит",
+    "zh": "蓝铜矿",
+    "zh-cn": "蓝铜矿",
+    "zh-hans": "蓝铜矿"
+   },
+   "qid": "Q108212",
+   "titles": {
+    "dewiki": "Azurit",
+    "eswiki": "Azurita",
+    "frwiki": "Azurite (minéral)",
+    "itwiki": "Azzurrite",
+    "jawiki": "藍銅鉱",
+    "kowiki": "남동석",
+    "plwiki": "Azuryt",
+    "ptwiki": "Azurita",
+    "ruwiki": "Азурит",
+    "ukwiki": "Азурит",
+    "zhwiki": "蓝铜矿"
+   }
+  },
+  "Baculites": {
+   "description": "extinct genus of ammonites (Ammonoidea)",
+   "en": "Baculites",
+   "labels": {
+    "de": "Baculites",
+    "en": "Baculites",
+    "es": "Baculites",
+    "fr": "Baculites",
+    "it": "Baculites",
+    "ja": "バクリテス",
+    "ko": "바쿨리테스",
+    "pl": "Baculites",
+    "pt": "Baculites",
+    "ru": "Baculites",
+    "uk": "Baculites",
+    "zh-hans": "杆菊石"
+   },
+   "qid": "Q1061311",
+   "titles": {
+    "eswiki": "Baculites",
+    "frwiki": "Baculites",
+    "itwiki": "Baculites",
+    "jawiki": "バキュリテス",
+    "kowiki": "바쿨리테스",
+    "plwiki": "Baculites",
+    "ruwiki": "Baculites"
+   }
+  },
+  "Baked 'Citrine'": null,
+  "Banded Agate": null,
+  "Barite": {
+   "description": "sulfate mineral",
+   "en": "baryte",
+   "labels": {
+    "de": "Baryt",
+    "en": "baryte",
+    "es": "baritina",
+    "fr": "barytine",
+    "it": "barite",
+    "ja": "重晶石",
+    "ko": "중정석",
+    "pl": "Baryt",
+    "pt": "barita",
+    "ru": "барит",
+    "uk": "Барит",
+    "zh": "重晶石",
+    "zh-cn": "重晶石",
+    "zh-hans": "重晶石"
+   },
+   "qid": "Q184196",
+   "titles": {
+    "dewiki": "Baryt",
+    "eswiki": "Baritina",
+    "frwiki": "Barytine",
+    "itwiki": "Barite",
+    "jawiki": "重晶石",
+    "kowiki": "중정석",
+    "plwiki": "Baryt",
+    "ptwiki": "Barita",
+    "ruwiki": "Барит",
+    "ukwiki": "Барит",
+    "zhwiki": "重晶石"
+   }
+  },
+  "Basalt": {
+   "description": "mafic igneous rock",
+   "en": "basalt",
+   "labels": {
+    "de": "Basalt",
+    "en": "basalt",
+    "es": "basalto",
+    "fr": "basalte",
+    "it": "basalto",
+    "ja": "玄武岩",
+    "ko": "현무암",
+    "pl": "bazalt",
+    "pt": "basalto",
+    "ru": "базальт",
+    "uk": "базальт",
+    "zh": "玄武岩"
+   },
+   "qid": "Q43338",
+   "titles": {
+    "dewiki": "Basalt",
+    "eswiki": "Basalto",
+    "frwiki": "Basalte",
+    "itwiki": "Basalto",
+    "jawiki": "玄武岩",
+    "kowiki": "현무암",
+    "plwiki": "Bazalt",
+    "ptwiki": "Basalto",
+    "ruwiki": "Базальт",
+    "ukwiki": "Базальт",
+    "zhwiki": "玄武岩"
+   }
+  },
+  "Beach Glass": {
+   "description": "pieces of glass that have been naturally weathered by water",
+   "en": "sea glass",
+   "labels": {
+    "de": "Meerglas",
+    "en": "sea glass",
+    "es": "vidrio marino",
+    "fr": "verre de mer",
+    "ja": "シーグラス",
+    "ko": "바다유리",
+    "pl": "szkło morskie",
+    "pt": "vidro marinho",
+    "zh": "海玻璃",
+    "zh-hans": "海玻璃"
+   },
+   "qid": "Q3117962",
+   "titles": {
+    "dewiki": "Meerglas",
+    "frwiki": "Verre de mer",
+    "jawiki": "シーグラス",
+    "kowiki": "바다유리",
+    "plwiki": "Szkło morskie",
+    "ptwiki": "Vidro marinho",
+    "zhwiki": "海玻璃"
+   }
+  },
+  "Belemnite": null,
+  "Biotite": null,
+  "Bixbite": null,
+  "Black Obsidian": null,
+  "Black Pearl": null,
+  "Blue Apatite": null,
+  "Blue Fluorite": null,
+  "Blue Halite": null,
+  "Blue John": null,
+  "Blue Spinel": null,
+  "Blue Topaz": null,
+  "Borax": {
+   "description": "mineral (as opposed to the chemical compound)",
+   "en": "borax",
+   "labels": {
+    "de": "Borax",
+    "en": "borax",
+    "es": "bórax",
+    "fr": "borax",
+    "it": "Borace",
+    "ja": "ホウ砂",
+    "pl": "boraks rodzimy",
+    "pt": "Bórax",
+    "ru": "бура",
+    "uk": "Бура",
+    "zh": "硼砂",
+    "zh-cn": "硼砂"
+   },
+   "qid": "Q3513011",
+   "titles": {
+    "dewiki": "Borax",
+    "frwiki": "Borax",
+    "itwiki": "Borace (minerale)",
+    "plwiki": "Boraks rodzimy",
+    "ruwiki": "Бура (минерал)",
+    "ukwiki": "Бура (мінерал)",
+    "zhwiki": "硼砂"
+   }
+  },
+  "Bornite": {
+   "description": "sulfide mineral",
+   "en": "bornite",
+   "labels": {
+    "de": "Bornit",
+    "en": "bornite",
+    "es": "bornita",
+    "fr": "bornite",
+    "it": "Bornite",
+    "ja": "斑銅鉱",
+    "ko": "반동석",
+    "pl": "Bornit",
+    "pt": "bornita",
+    "ru": "Борнит",
+    "uk": "Борніт",
+    "zh": "斑銅礦",
+    "zh-cn": "斑铜矿",
+    "zh-hans": "斑铜矿"
+   },
+   "qid": "Q108694",
+   "titles": {
+    "dewiki": "Bornit",
+    "eswiki": "Bornita",
+    "frwiki": "Bornite",
+    "itwiki": "Bornite",
+    "jawiki": "斑銅鉱",
+    "kowiki": "반동석",
+    "plwiki": "Bornit",
+    "ptwiki": "Bornita",
+    "ruwiki": "Борнит",
+    "ukwiki": "Борніт",
+    "zhwiki": "斑銅礦"
+   }
+  },
+  "Botryoidal Fluorite": null,
+  "Botryoidal Hematite": null,
+  "Brachiopods": null,
+  "Breccia": {
+   "description": "rock composed of angular fragments in a groundmass",
+   "en": "breccia",
+   "labels": {
+    "de": "Brekzie",
+    "en": "breccia",
+    "es": "brecha",
+    "fr": "brèche",
+    "it": "breccia",
+    "ja": "角礫岩",
+    "ko": "각력암",
+    "pl": "brekcja",
+    "pt": "brecha",
+    "ru": "брекчия",
+    "uk": "брекчія",
+    "zh": "角砾岩",
+    "zh-cn": "角砾岩",
+    "zh-hans": "角砾岩"
+   },
+   "qid": "Q191250",
+   "titles": {
+    "dewiki": "Brekzie",
+    "eswiki": "Brecha (geología)",
+    "frwiki": "Brèche (roche)",
+    "jawiki": "角礫岩",
+    "kowiki": "각력암",
+    "plwiki": "Brekcja",
+    "ptwiki": "Brecha",
+    "ruwiki": "Брекчия",
+    "ukwiki": "Брекчія",
+    "zhwiki": "角砾岩"
+   }
+  },
+  "Brochantite": {
+   "description": "sulfate mineral",
+   "en": "brochantite",
+   "labels": {
+    "de": "Brochantit",
+    "en": "brochantite",
+    "es": "Brochantita",
+    "fr": "Brochantite",
+    "it": "Brochantite",
+    "ja": "ブロシャン銅鉱",
+    "pl": "Brochantyt",
+    "ru": "Брошантит",
+    "uk": "Брошантит",
+    "zh": "水膽礬"
+   },
+   "qid": "Q411036",
+   "titles": {
+    "dewiki": "Brochantit",
+    "eswiki": "Brochantita",
+    "frwiki": "Brochantite",
+    "itwiki": "Brochantite",
+    "plwiki": "Brochantyt",
+    "ruwiki": "Брошантит",
+    "ukwiki": "Брошантит",
+    "zhwiki": "水膽礬"
+   }
+  },
+  "Calcite in Quartz": null,
+  "Calymene": {
+   "description": "genus of trilobites (fossil)",
+   "en": "Calymene",
+   "labels": {
+    "de": "Calymene",
+    "en": "Calymene",
+    "es": "Calymene",
+    "fr": "Calymene",
+    "it": "Calymene",
+    "pl": "Calymene",
+    "pt": "Calymene",
+    "ru": "Calymene",
+    "uk": "Calymene",
+    "zh": "隱頭蟲"
+   },
+   "qid": "Q2581412",
+   "titles": {
+    "eswiki": "Calymene",
+    "frwiki": "Calymene",
+    "itwiki": "Calymene",
+    "plwiki": "Calymene",
+    "zhwiki": "隱頭蟲"
+   }
+  },
+  "Camping Trip Obsidian": null,
+  "Carnallite": {
+   "description": "halide mineral",
+   "en": "carnallite",
+   "labels": {
+    "de": "Carnallit",
+    "en": "carnallite",
+    "es": "carnalita",
+    "fr": "carnallite",
+    "it": "carnallite",
+    "ja": "カーナライト",
+    "pl": "karnalit",
+    "pt": "carnallita",
+    "ru": "карналлит",
+    "uk": "карналіт",
+    "zh": "光卤石",
+    "zh-cn": "光卤石",
+    "zh-hans": "光卤石"
+   },
+   "qid": "Q409781",
+   "titles": {
+    "dewiki": "Carnallit",
+    "eswiki": "Carnalita",
+    "frwiki": "Carnallite",
+    "itwiki": "Carnallite",
+    "jawiki": "カーナライト",
+    "plwiki": "Karnalit",
+    "ptwiki": "Carnallita",
+    "ruwiki": "Карналлит",
+    "ukwiki": "Карналіт",
+    "zhwiki": "光鹵石"
+   }
+  },
+  "Carnelian": {
+   "description": "yellow-red chalcedony variety, used as a semi-precious gemstone",
+   "en": "carnelian",
+   "labels": {
+    "de": "Karneol",
+    "en": "carnelian",
+    "es": "cornalina",
+    "fr": "cornaline",
+    "it": "corniola",
+    "ja": "カーネリアン",
+    "ko": "카넬리안",
+    "pl": "karneol",
+    "pt": "cornalina",
+    "ru": "карнеол",
+    "uk": "Карнеол",
+    "zh": "紅玉髓",
+    "zh-cn": "红玉髓",
+    "zh-hans": "红玉髓"
+   },
+   "qid": "Q324369",
+   "titles": {
+    "dewiki": "Karneol",
+    "eswiki": "Cornalina",
+    "frwiki": "Cornaline",
+    "itwiki": "Corniola",
+    "jawiki": "カーネリアン",
+    "kowiki": "카닐리언",
+    "plwiki": "Karneol",
+    "ptwiki": "Cornalina",
+    "ruwiki": "Сердолик",
+    "ukwiki": "Сердолік",
+    "zhwiki": "红玉髓"
+   }
+  },
+  "Cassiterite Crystal": null,
+  "Cavansite": {
+   "description": "calcium vanadium phyllosilicate mineral",
+   "en": "cavansite",
+   "labels": {
+    "de": "Cavansit",
+    "en": "cavansite",
+    "es": "Cavansita",
+    "fr": "cavansite",
+    "it": "Cavansite",
+    "ja": "カバンシ石",
+    "pl": "Cavansyt",
+    "ru": "кавансит",
+    "uk": "Кавансит",
+    "zh": "水矽釩鈣石"
+   },
+   "qid": "Q422857",
+   "titles": {
+    "dewiki": "Cavansit",
+    "eswiki": "Cavansita",
+    "frwiki": "Cavansite",
+    "itwiki": "Cavansite",
+    "jawiki": "カバンシ石",
+    "plwiki": "Cavansyt",
+    "ruwiki": "Кавансит",
+    "ukwiki": "Кавансит",
+    "zhwiki": "水矽釩鈣石"
+   }
+  },
+  "Celestine": {
+   "description": "strontium sulfate mineral",
+   "en": "celestine",
+   "labels": {
+    "de": "Coelestin",
+    "en": "celestine",
+    "es": "celestina",
+    "fr": "célestine",
+    "it": "Celestina",
+    "ja": "天青石",
+    "ko": "천청석",
+    "pl": "Celestyn",
+    "pt": "celestine",
+    "pt-br": "celestina",
+    "ru": "Целестин",
+    "uk": "Целестин",
+    "zh": "天青石",
+    "zh-cn": "天青石",
+    "zh-hans": "天青石"
+   },
+   "qid": "Q407221",
+   "titles": {
+    "dewiki": "Coelestin (Mineral)",
+    "eswiki": "Celestina (mineral)",
+    "frwiki": "Célestine",
+    "itwiki": "Celestina",
+    "jawiki": "天青石",
+    "kowiki": "천청석",
+    "plwiki": "Celestyn (minerał)",
+    "ptwiki": "Celestina",
+    "ruwiki": "Целестин (минерал)",
+    "ukwiki": "Целестин",
+    "zhwiki": "天青石"
+   }
+  },
+  "Celestite Geode": null,
+  "Chalcopyrite Mass": null,
+  "Chalk": {
+   "description": "soft, white, porous sedimentary rock",
+   "en": "chalk",
+   "labels": {
+    "de": "Kreide",
+    "en": "chalk",
+    "es": "creta",
+    "fr": "craie",
+    "it": "calcilutite",
+    "ja": "チョーク",
+    "ko": "백악",
+    "pl": "kreda",
+    "pt": "giz",
+    "ru": "мел",
+    "uk": "крейда",
+    "zh": "白堊岩",
+    "zh-cn": "白垩岩",
+    "zh-hans": "白垩岩"
+   },
+   "qid": "Q183670",
+   "titles": {
+    "dewiki": "Kreide (Gestein)",
+    "eswiki": "Creta (roca)",
+    "frwiki": "Craie",
+    "itwiki": "Chalk",
+    "jawiki": "チョーク (岩石)",
+    "kowiki": "백악",
+    "plwiki": "Kreda (skała)",
+    "ptwiki": "Giz",
+    "ruwiki": "Мел",
+    "ukwiki": "Крейда",
+    "zhwiki": "白堊岩"
+   }
+  },
+  "Charoite": {
+   "description": "inosilicate mineral",
+   "en": "charoite",
+   "labels": {
+    "de": "Charoit",
+    "en": "charoite",
+    "fr": "charoïte",
+    "it": "charoite",
+    "ja": "チャロアイト",
+    "pl": "czaroit",
+    "ru": "чароит",
+    "uk": "чароїт",
+    "zh": "紫硅碱钙石"
+   },
+   "qid": "Q422167",
+   "titles": {
+    "dewiki": "Charoit",
+    "frwiki": "Charoïte",
+    "itwiki": "Ciaroite",
+    "jawiki": "チャロアイト",
+    "plwiki": "Czaroit",
+    "ruwiki": "Чароит",
+    "ukwiki": "Чароїт",
+    "zhwiki": "紫矽鹼鈣石"
+   }
+  },
+  "Chert & Flint": null,
+  "Chromite Lump": null,
+  "Chrysocolla": {
+   "description": "phyllosilicate mineral",
+   "en": "chrysocolla",
+   "labels": {
+    "de": "Chrysokoll",
+    "en": "chrysocolla",
+    "es": "crisocola",
+    "fr": "chrysocolle",
+    "it": "crisocolla",
+    "ja": "珪孔雀石",
+    "pl": "chryzokola",
+    "pt": "crisocola",
+    "pt-br": "crisocola",
+    "ru": "хризоколла",
+    "uk": "хризокола",
+    "zh": "矽孔雀石"
+   },
+   "qid": "Q407485",
+   "titles": {
+    "dewiki": "Chrysokoll",
+    "eswiki": "Crisocola",
+    "frwiki": "Chrysocolle",
+    "itwiki": "Crisocolla",
+    "jawiki": "珪孔雀石",
+    "plwiki": "Chryzokola",
+    "ptwiki": "Crisocola",
+    "ruwiki": "Хризоколла",
+    "ukwiki": "Хризокола",
+    "zhwiki": "矽孔雀石"
+   }
+  },
+  "Chrysoprase": {
+   "description": "apple-green, gem-quality, chalcedony variety",
+   "en": "chrysoprase",
+   "labels": {
+    "de": "Chrysopras",
+    "en": "chrysoprase",
+    "es": "crisoprasa",
+    "fr": "chrysoprase",
+    "it": "crisoprasio",
+    "ja": "クリソプレーズ",
+    "ko": "녹옥수",
+    "pl": "chryzopraz",
+    "pt": "crisoprásio",
+    "ru": "хризопраз",
+    "uk": "Хризопраз",
+    "zh": "绿玉髓",
+    "zh-cn": "绿玉髓",
+    "zh-hans": "绿玉髓"
+   },
+   "qid": "Q429960",
+   "titles": {
+    "dewiki": "Chrysopras",
+    "eswiki": "Crisoprasa",
+    "frwiki": "Chrysoprase",
+    "itwiki": "Crisoprasio",
+    "jawiki": "クリソプレーズ",
+    "kowiki": "녹옥수",
+    "plwiki": "Chryzopraz",
+    "ptwiki": "Crisoprásio",
+    "ruwiki": "Хризопраз",
+    "ukwiki": "Хризопраз",
+    "zhwiki": "绿玉髓"
+   }
+  },
+  "Citrine": {
+   "description": "mineral, yellow quartz var.",
+   "en": "citrine",
+   "labels": {
+    "de": "Citrin",
+    "en": "citrine",
+    "es": "cuarzo citrino",
+    "fr": "citrine",
+    "it": "quarzo citrino",
+    "ja": "黄水晶",
+    "pl": "cytryn",
+    "pt": "citrino",
+    "ru": "Цитрин",
+    "uk": "Цитрин"
+   },
+   "qid": "Q334719",
+   "titles": {
+    "dewiki": "Citrin",
+    "eswiki": "Cuarzo citrino",
+    "frwiki": "Citrine",
+    "itwiki": "Quarzo citrino",
+    "jawiki": "黄水晶",
+    "plwiki": "Cytryn",
+    "ptwiki": "Citrino (mineral)",
+    "ruwiki": "Цитрин",
+    "ukwiki": "Цитрин"
+   }
+  },
+  "Clear Quartz": {
+   "description": "colourless and transparent form of quartz",
+   "en": "rock crystal",
+   "labels": {
+    "de": "Bergkristall",
+    "en": "rock crystal",
+    "es": "cristal de roca",
+    "fr": "cristal de roche",
+    "it": "cristallo di rocca",
+    "ja": "水晶",
+    "ko": "수정",
+    "pl": "kryształ górski",
+    "pt": "Cristal de rocha",
+    "ru": "горный хрусталь",
+    "uk": "Гірський кришталь",
+    "zh": "水晶",
+    "zh-hans": "水晶"
+   },
+   "qid": "Q2050687",
+   "titles": {
+    "eswiki": "Cristal de roca",
+    "frwiki": "Cristal de roche",
+    "itwiki": "Quarzo ialino",
+    "plwiki": "Kryształ górski",
+    "ptwiki": "Cristal de rocha",
+    "ruwiki": "Горный хрусталь",
+    "ukwiki": "Гірський кришталь"
+   }
+  },
+  "Coal Ball": {
+   "description": "stone of peat that did not turn into coal",
+   "en": "Coal ball",
+   "labels": {
+    "de": "Torfdolomit",
+    "en": "Coal ball",
+    "es": "Bola de carbón",
+    "fr": "Boulet de charbon",
+    "uk": "Вугільні кулі"
+   },
+   "qid": "Q574636",
+   "titles": {
+    "dewiki": "Torfdolomit",
+    "eswiki": "Bola de carbón",
+    "frwiki": "Boulet de charbon",
+    "ukwiki": "Вугільні кулі"
+   }
+  },
+  "Common Opal": null,
+  "Copiapite": {
+   "description": "sulfate mineral",
+   "en": "copiapite",
+   "labels": {
+    "de": "Copiapit",
+    "en": "copiapite",
+    "es": "Copiapita",
+    "fr": "Copiapite",
+    "it": "copiapite",
+    "pl": "Copiapit",
+    "uk": "Копіапіт"
+   },
+   "qid": "Q651700",
+   "titles": {
+    "dewiki": "Copiapit",
+    "eswiki": "Copiapita",
+    "frwiki": "Copiapite",
+    "itwiki": "Copiapite",
+    "plwiki": "Copiapit",
+    "ukwiki": "Копіапіт"
+   }
+  },
+  "Coprolite": {
+   "description": "fossilized feces",
+   "en": "coprolite",
+   "labels": {
+    "de": "Koprolith",
+    "en": "coprolite",
+    "es": "coprolito",
+    "fr": "coprolithe",
+    "it": "coprolite",
+    "ja": "糞石",
+    "ko": "분석",
+    "pl": "koprolity",
+    "pt": "coprólito",
+    "pt-br": "Coprólito",
+    "ru": "копролиты",
+    "uk": "копроліт",
+    "zh": "粪化石"
+   },
+   "qid": "Q544041",
+   "titles": {
+    "dewiki": "Koprolith",
+    "eswiki": "Coprolito",
+    "frwiki": "Coprolithe",
+    "itwiki": "Coprolite",
+    "jawiki": "糞石",
+    "kowiki": "분석 (화석)",
+    "plwiki": "Koprolity",
+    "ptwiki": "Coprólito",
+    "ruwiki": "Копролиты",
+    "ukwiki": "Копроліти",
+    "zhwiki": "粪化石"
+   }
+  },
+  "Coquina": {
+   "description": "sedimentary rock that is composed mostly of fragments of shells",
+   "en": "coquina",
+   "labels": {
+    "de": "Schillkalkstein",
+    "en": "coquina",
+    "es": "coquina",
+    "fr": "coquina",
+    "ja": "コキーナ",
+    "ru": "котелец",
+    "uk": "котелець"
+   },
+   "qid": "Q1225001",
+   "titles": {
+    "dewiki": "Schillkalkstein",
+    "eswiki": "Coquina (roca)",
+    "frwiki": "Coquina",
+    "ruwiki": "Котелец",
+    "ukwiki": "Котелець"
+   }
+  },
+  "Crinoid stems": null,
+  "Crocoite": {
+   "description": "chromate mineral",
+   "en": "crocoite",
+   "labels": {
+    "de": "Krokoit",
+    "en": "crocoite",
+    "es": "crocoíta",
+    "fr": "Crocoïte",
+    "it": "Crocoite",
+    "ja": "紅鉛鉱",
+    "ko": "홍연석",
+    "pl": "Krokoit",
+    "pt": "crocoíta",
+    "ru": "Крокоит",
+    "uk": "Крокоїт",
+    "zh": "铬铅矿",
+    "zh-cn": "铬铅矿",
+    "zh-hans": "铬铅矿"
+   },
+   "qid": "Q422903",
+   "titles": {
+    "dewiki": "Krokoit",
+    "eswiki": "Crocoíta",
+    "frwiki": "Crocoïte",
+    "itwiki": "Crocoite",
+    "jawiki": "紅鉛鉱",
+    "kowiki": "홍연석",
+    "plwiki": "Krokoit",
+    "ptwiki": "Crocoíta",
+    "ruwiki": "Крокоит",
+    "ukwiki": "Крокоїт",
+    "zhwiki": "铬铅矿"
+   }
+  },
+  "Cuprite": {
+   "description": "oxide mineral",
+   "en": "cuprite",
+   "labels": {
+    "de": "Cuprit",
+    "en": "cuprite",
+    "es": "Cuprita",
+    "fr": "cuprite",
+    "it": "Cuprite",
+    "ja": "赤銅鉱",
+    "ko": "적동석",
+    "pl": "Kupryt",
+    "pt": "cuprita",
+    "ru": "Куприт",
+    "uk": "Куприт",
+    "zh": "赤銅礦",
+    "zh-cn": "赤铜矿",
+    "zh-hans": "赤铜矿"
+   },
+   "qid": "Q407335",
+   "titles": {
+    "dewiki": "Cuprit",
+    "eswiki": "Cuprita",
+    "frwiki": "Cuprite",
+    "itwiki": "Cuprite",
+    "jawiki": "赤銅鉱",
+    "kowiki": "적동석",
+    "plwiki": "Kupryt",
+    "ptwiki": "Cuprita",
+    "ruwiki": "Куприт",
+    "ukwiki": "Куприт",
+    "zhwiki": "赤銅礦"
+   }
+  },
+  "Danburite": {
+   "description": "tectosilicate mineral",
+   "en": "danburite",
+   "labels": {
+    "de": "Danburit",
+    "en": "danburite",
+    "es": "Danburita",
+    "fr": "Danburite",
+    "it": "Danburite",
+    "ja": "ダンブリ石",
+    "ko": "댄버라이트",
+    "pl": "Danburyt",
+    "ru": "Данбурит",
+    "uk": "Данбурит",
+    "zh": "赛黄晶"
+   },
+   "qid": "Q424270",
+   "titles": {
+    "dewiki": "Danburit",
+    "eswiki": "Danburita",
+    "frwiki": "Danburite",
+    "itwiki": "Danburite",
+    "jawiki": "ダンブリ石",
+    "kowiki": "댄버라이트",
+    "plwiki": "Danburyt",
+    "ruwiki": "Данбурит",
+    "ukwiki": "Данбурит",
+    "zhwiki": "赛黄晶"
+   }
+  },
+  "Demantoid": {
+   "description": "green andradite variety",
+   "en": "demantoid",
+   "labels": {
+    "de": "Demantoid",
+    "en": "demantoid",
+    "es": "Demantoide",
+    "fr": "démantoïde",
+    "it": "demantoide",
+    "ja": "デマントイド",
+    "pl": "Demantoid",
+    "ru": "Демантоид",
+    "uk": "Демантоїд",
+    "zh": "翠榴石"
+   },
+   "qid": "Q2414437",
+   "titles": {
+    "eswiki": "Demantoide",
+    "jawiki": "デマントイド",
+    "plwiki": "Demantoid",
+    "ruwiki": "Демантоид",
+    "ukwiki": "Демантоїд"
+   }
+  },
+  "Desert Rose": {
+   "description": "rose-like formations of crystal clusters of gypsum or baryte which include abundant sand grains",
+   "en": "desert rose",
+   "labels": {
+    "de": "Sandrose",
+    "en": "desert rose",
+    "es": "Rosa del desierto",
+    "fr": "Rose des sables",
+    "it": "Rosa del deserto",
+    "ja": "砂漠のバラ",
+    "ko": "사막의 장미",
+    "pl": "Róża pustyni",
+    "pt": "rosa das areias",
+    "ru": "роза пустыни",
+    "uk": "троянда пустелі",
+    "zh": "沙漠座莲"
+   },
+   "qid": "Q509713",
+   "titles": {
+    "dewiki": "Sandrose",
+    "eswiki": "Rosa del desierto",
+    "frwiki": "Rose des sables",
+    "itwiki": "Rosa del deserto",
+    "jawiki": "砂漠のバラ",
+    "kowiki": "사막의 장미",
+    "plwiki": "Róża pustyni",
+    "ptwiki": "Rosa das areias",
+    "ruwiki": "Роза пустыни",
+    "ukwiki": "Троянда пустелі",
+    "zhwiki": "沙漠玫瑰 (礦物)"
+   }
+  },
+  "Dino footprint": null,
+  "Dioptase": {
+   "description": "cyclosilicate mineral",
+   "en": "dioptase",
+   "labels": {
+    "de": "Dioptas",
+    "en": "dioptase",
+    "es": "Dioptasa",
+    "fr": "dioptase",
+    "it": "dioptasio",
+    "ja": "翠銅鉱",
+    "ko": "디옵테이즈",
+    "pl": "Dioptaz",
+    "ru": "диоптаз",
+    "uk": "діоптаз",
+    "zh": "青銅礦",
+    "zh-cn": "青铜矿",
+    "zh-hans": "青铜矿"
+   },
+   "qid": "Q413369",
+   "titles": {
+    "dewiki": "Dioptas",
+    "eswiki": "Dioptasa",
+    "frwiki": "Dioptase",
+    "itwiki": "Dioptasio",
+    "jawiki": "翠銅鉱",
+    "kowiki": "취동광",
+    "plwiki": "Dioptaz",
+    "ruwiki": "Диоптаз",
+    "ukwiki": "Діоптаз",
+    "zhwiki": "綠銅礦"
+   }
+  },
+  "Diorite": {
+   "description": "deep igneous rocks made of equal amounts of alkali feldspar and intermediate plagioclase, the most common stained ingredients are amphibole, biotite and pyroxene, and accessory minerals apatite and sfen; volcanic equivalent: tackle.",
+   "en": "diorite",
+   "labels": {
+    "de": "Diorit",
+    "en": "diorite",
+    "es": "diorita",
+    "fr": "diorite",
+    "it": "diorite",
+    "ja": "閃緑岩",
+    "ko": "섬록암",
+    "pl": "Dioryt",
+    "pt": "diorito",
+    "pt-br": "diorito",
+    "ru": "диорит",
+    "uk": "діорит",
+    "zh": "閃長岩",
+    "zh-cn": "闪长岩",
+    "zh-hans": "闪长岩"
+   },
+   "qid": "Q187408",
+   "titles": {
+    "dewiki": "Diorit",
+    "eswiki": "Diorita",
+    "frwiki": "Diorite",
+    "itwiki": "Diorite",
+    "jawiki": "閃緑岩",
+    "kowiki": "섬록암",
+    "plwiki": "Dioryt",
+    "ptwiki": "Diorito",
+    "ruwiki": "Диорит",
+    "ukwiki": "Діорит",
+    "zhwiki": "閃長岩"
+   }
+  },
+  "Dogtooth Calcite": null,
+  "Driveway Sparkler": null,
+  "Dumortierite": {
+   "description": "nesosilicate mineral",
+   "en": "dumortierite",
+   "labels": {
+    "de": "Dumortierit",
+    "en": "dumortierite",
+    "es": "Dumortierita",
+    "fr": "Dumortierite",
+    "it": "dumortierite",
+    "ja": "デュモルチェライト",
+    "pl": "Dumortieryt",
+    "pt": "dumortierite",
+    "pt-br": "dumortierita",
+    "ru": "Дюмортьерит",
+    "uk": "Дюмортьєрит",
+    "zh": "蓝线石"
+   },
+   "qid": "Q677619",
+   "titles": {
+    "dewiki": "Dumortierit",
+    "eswiki": "Dumortierita",
+    "frwiki": "Dumortiérite",
+    "itwiki": "Dumortierite",
+    "jawiki": "デュモルチェライト",
+    "plwiki": "Dumortieryt",
+    "ptwiki": "Dumortierita",
+    "ruwiki": "Дюмортьерит",
+    "ukwiki": "Дюмортьєрит",
+    "zhwiki": "蓝线石"
+   }
+  },
+  "Elbaite": {
+   "description": "cyclosilicate, mineral",
+   "en": "elbaite",
+   "labels": {
+    "de": "Elbait",
+    "en": "elbaite",
+    "es": "elbaíta",
+    "fr": "elbaïte",
+    "it": "Elbaite",
+    "ja": "リシア電気石",
+    "pl": "Elbait",
+    "pt": "elbaíte",
+    "ru": "Эльбаит",
+    "uk": "Ельбаїт",
+    "zh": "锂电气石",
+    "zh-cn": "锂电气石",
+    "zh-hans": "锂电气石"
+   },
+   "qid": "Q1920794",
+   "titles": {
+    "dewiki": "Elbait",
+    "eswiki": "Elbaíta",
+    "frwiki": "Elbaïte",
+    "itwiki": "Elbaite",
+    "jawiki": "リシア電気石",
+    "plwiki": "Elbait",
+    "ptwiki": "Elbaíte",
+    "ruwiki": "Эльбаит",
+    "ukwiki": "Ельбаїт"
+   }
+  },
+  "Eldredgeops": {
+   "description": "genus of trilobites",
+   "en": "Eldredgeops",
+   "labels": {
+    "de": "Eldredgeops",
+    "en": "Eldredgeops",
+    "es": "Eldredgeops",
+    "fr": "Eldredgeops",
+    "it": "Eldredgeops",
+    "pl": "Eldredgeops",
+    "pt": "Eldredgeops",
+    "ru": "Eldredgeops",
+    "uk": "Eldredgeops",
+    "zh": "埃爾德雷奇蟲屬"
+   },
+   "qid": "Q5354158",
+   "titles": {
+    "plwiki": "Eldredgeops"
+   }
+  },
+  "Elrathia": {
+   "description": "genus of trilobites",
+   "en": "Elrathia",
+   "labels": {
+    "de": "Elrathia",
+    "en": "Elrathia",
+    "es": "Elrathia",
+    "fr": "Elrathia",
+    "it": "Elrathia",
+    "pl": "Elrathia",
+    "pt": "Elrathia",
+    "ru": "Ельратия",
+    "uk": "Elrathia",
+    "zh": "爱尔纳虫属",
+    "zh-cn": "爱尔纳虫属",
+    "zh-hans": "爱尔纳虫属"
+   },
+   "qid": "Q26146",
+   "titles": {
+    "dewiki": "Elrathia",
+    "itwiki": "Elrathia",
+    "plwiki": "Elrathia",
+    "ruwiki": "Elrathia",
+    "zhwiki": "艾尔拉斯虫属"
+   }
+  },
+  "Emerald": {
+   "description": "green gemstone, a beryl variety",
+   "en": "emerald",
+   "labels": {
+    "de": "Smaragd",
+    "en": "emerald",
+    "es": "esmeralda",
+    "fr": "émeraude",
+    "it": "smeraldo",
+    "ja": "エメラルド",
+    "ko": "에메랄드",
+    "pl": "szmaragd",
+    "pt": "esmeralda",
+    "pt-br": "Esmeralda",
+    "ru": "изумруд",
+    "uk": "смарагд",
+    "zh": "祖母綠",
+    "zh-hans": "祖母绿"
+   },
+   "qid": "Q43513",
+   "titles": {
+    "dewiki": "Smaragd",
+    "eswiki": "Esmeralda",
+    "frwiki": "Émeraude",
+    "itwiki": "Smeraldo",
+    "jawiki": "エメラルド",
+    "kowiki": "에메랄드",
+    "plwiki": "Szmaragd",
+    "ptwiki": "Esmeralda",
+    "ruwiki": "Изумруд",
+    "ukwiki": "Смарагд",
+    "zhwiki": "祖母綠"
+   }
+  },
+  "Enhydro Agate": null,
+  "Fern fronds": null,
+  "Fish plate": null,
+  "Foliated Flakes": null,
+  "Fulgurite": {
+   "description": "metamorphic rock formed when lightning strikes sand, soil, sand, rock, organic debris",
+   "en": "fulgurite",
+   "labels": {
+    "de": "Fulgurit",
+    "en": "fulgurite",
+    "es": "fulgurita",
+    "fr": "fulgurite",
+    "it": "folgorite",
+    "ja": "閃電岩",
+    "ko": "섬전암",
+    "pl": "Fulguryt",
+    "pt": "fulgurito",
+    "pt-br": "Fulgurito",
+    "ru": "Фульгурит",
+    "uk": "Фульгурит",
+    "zh": "閃電熔岩",
+    "zh-hans": "闪电熔岩"
+   },
+   "qid": "Q924408",
+   "titles": {
+    "dewiki": "Fulgurit",
+    "eswiki": "Fulgurita",
+    "frwiki": "Fulgurite",
+    "itwiki": "Folgorite",
+    "jawiki": "閃電岩",
+    "kowiki": "섬전암",
+    "plwiki": "Fulguryt",
+    "ptwiki": "Fulgurito",
+    "ruwiki": "Фульгурит",
+    "ukwiki": "Фульгурит",
+    "zhwiki": "閃電熔岩"
+   }
+  },
+  "Galena Cubes": null,
+  "Galena in Hematite": null,
+  "Garnet Schist": {
+   "description": "metamorphic rock",
+   "en": "garnet-mica schist",
+   "labels": {
+    "de": "Granat-Glimmerschiefer",
+    "en": "garnet-mica schist"
+   },
+   "qid": "Q1028362",
+   "titles": {}
+  },
+  "Girasol": {
+   "description": "opal variety",
+   "en": "girasol",
+   "labels": {
+    "en": "girasol",
+    "es": "ópalo girasol"
+   },
+   "qid": "Q110686429",
+   "titles": {}
+  },
+  "Glauberite": {
+   "description": "sulfate mineral",
+   "en": "glauberite",
+   "labels": {
+    "de": "Glauberit",
+    "en": "glauberite",
+    "es": "Glauberita",
+    "fr": "Glaubérite",
+    "it": "Glauberite",
+    "pl": "Glauberyt",
+    "pt": "glauberita",
+    "ru": "Глауберит",
+    "uk": "Глауберит",
+    "zh": "钙芒硝"
+   },
+   "qid": "Q419241",
+   "titles": {
+    "dewiki": "Glauberit",
+    "eswiki": "Glauberita",
+    "frwiki": "Glaubérite",
+    "itwiki": "Glauberite",
+    "plwiki": "Glauberyt (minerał)",
+    "ptwiki": "Glauberita",
+    "ruwiki": "Глауберит",
+    "ukwiki": "Глауберит"
+   }
+  },
+  "Goethite": {
+   "description": "iron(III) oxide-hydroxide named in honor to the poet Goethe",
+   "en": "goethite",
+   "labels": {
+    "de": "Goethit",
+    "en": "goethite",
+    "es": "goethita",
+    "fr": "goethite",
+    "it": "Goethite",
+    "ja": "針鉄鉱",
+    "ko": "침철석",
+    "pl": "Goethyt",
+    "pt": "goethita",
+    "ru": "гётит",
+    "uk": "ґетит",
+    "zh": "针铁矿",
+    "zh-cn": "针铁矿",
+    "zh-hans": "针铁矿"
+   },
+   "qid": "Q189703",
+   "titles": {
+    "dewiki": "Goethit",
+    "eswiki": "Goethita",
+    "frwiki": "Goethite",
+    "itwiki": "Goethite",
+    "jawiki": "針鉄鉱",
+    "kowiki": "침철석",
+    "plwiki": "Goethyt",
+    "ptwiki": "Goethita",
+    "ruwiki": "Гётит",
+    "ukwiki": "Ґетит",
+    "zhwiki": "针铁矿"
+   }
+  },
+  "Gold Flakes": null,
+  "Goldstone": {
+   "description": "glittering glass made in a low-oxygen reducing atmosphere",
+   "en": "goldstone",
+   "labels": {
+    "de": "Goldfluss",
+    "en": "goldstone",
+    "fr": "verre aventuriné",
+    "it": "Avventurina",
+    "ja": "ゴールドストーン",
+    "pl": "piasek pustyni",
+    "ru": "Авантюриновое стекло",
+    "zh": "金沙石"
+   },
+   "qid": "Q1116835",
+   "titles": {
+    "dewiki": "Goldfluss",
+    "frwiki": "Verre aventuriné",
+    "itwiki": "Avventurina (vetro)",
+    "jawiki": "ゴールドストーン (宝石)",
+    "plwiki": "Szkło awenturynowe",
+    "ruwiki": "Авантюриновое стекло"
+   }
+  },
+  "Goshenite": {
+   "description": "variety of beryl",
+   "en": "goshenite",
+   "labels": {
+    "de": "Goshenit",
+    "en": "goshenite",
+    "fr": "goshénite",
+    "it": "Goshenite",
+    "pl": "Goshenit",
+    "zh": "透绿柱石"
+   },
+   "qid": "Q3111417",
+   "titles": {
+    "frwiki": "Goshénite",
+    "itwiki": "Goshenite",
+    "plwiki": "Goshenit",
+    "zhwiki": "透绿柱石"
+   }
+  },
+  "Granite": {
+   "description": "common type of intrusive, felsic, igneous rock with grained texture",
+   "en": "granite",
+   "labels": {
+    "de": "Granit",
+    "en": "granite",
+    "es": "granito",
+    "fr": "granite",
+    "it": "granito",
+    "ja": "花崗岩",
+    "ko": "화강암",
+    "pl": "granit",
+    "pt": "granito",
+    "pt-br": "granito",
+    "ru": "гранит",
+    "uk": "граніт",
+    "zh": "花崗岩"
+   },
+   "qid": "Q41177",
+   "titles": {
+    "dewiki": "Granit",
+    "eswiki": "Granito",
+    "frwiki": "Granite",
+    "itwiki": "Granito",
+    "jawiki": "花崗岩",
+    "kowiki": "화강암",
+    "plwiki": "Granit",
+    "ptwiki": "Granito",
+    "ruwiki": "Гранит",
+    "ukwiki": "Граніт",
+    "zhwiki": "花崗岩"
+   }
+  },
+  "Grape Agate": {
+   "description": "Calcite mineral",
+   "en": "Grape Agate",
+   "labels": {
+    "en": "Grape Agate",
+    "es": "Ágata de uva",
+    "fr": "Agate raisin",
+    "ja": "グレープアゲート",
+    "uk": "Виноградний агат"
+   },
+   "qid": "Q109311989",
+   "titles": {
+    "eswiki": "Ágata de uva",
+    "frwiki": "Agate raisin",
+    "ukwiki": "Виноградний агат"
+   }
+  },
+  "Graphite": {
+   "description": "allotrope of carbon, mineral, substance",
+   "en": "graphite",
+   "labels": {
+    "de": "Graphit",
+    "en": "graphite",
+    "es": "grafito",
+    "fr": "graphite",
+    "it": "grafite",
+    "ja": "グラファイト",
+    "ko": "흑연",
+    "pl": "grafit",
+    "pt": "grafite",
+    "pt-br": "grafite",
+    "ru": "графит",
+    "uk": "графіт",
+    "zh": "石墨",
+    "zh-cn": "石墨",
+    "zh-hans": "石墨"
+   },
+   "qid": "Q5309",
+   "titles": {
+    "dewiki": "Graphit",
+    "eswiki": "Grafito",
+    "frwiki": "Graphite",
+    "itwiki": "Grafite",
+    "jawiki": "グラファイト",
+    "kowiki": "흑연",
+    "plwiki": "Grafit",
+    "ptwiki": "Grafite",
+    "ruwiki": "Графит",
+    "ukwiki": "Графіт",
+    "zhwiki": "石墨"
+   }
+  },
+  "Green Fluorite": null,
+  "Gummite": null,
+  "Gypsum Rose": {
+   "description": "rose-like formations of crystal clusters of gypsum or baryte which include abundant sand grains",
+   "en": "desert rose",
+   "labels": {
+    "de": "Sandrose",
+    "en": "desert rose",
+    "es": "Rosa del desierto",
+    "fr": "Rose des sables",
+    "it": "Rosa del deserto",
+    "ja": "砂漠のバラ",
+    "ko": "사막의 장미",
+    "pl": "Róża pustyni",
+    "pt": "rosa das areias",
+    "ru": "роза пустыни",
+    "uk": "троянда пустелі",
+    "zh": "沙漠座莲"
+   },
+   "qid": "Q509713",
+   "titles": {
+    "dewiki": "Sandrose",
+    "eswiki": "Rosa del desierto",
+    "frwiki": "Rose des sables",
+    "itwiki": "Rosa del deserto",
+    "jawiki": "砂漠のバラ",
+    "kowiki": "사막의 장미",
+    "plwiki": "Róża pustyni",
+    "ptwiki": "Rosa das areias",
+    "ruwiki": "Роза пустыни",
+    "ukwiki": "Троянда пустелі",
+    "zhwiki": "沙漠玫瑰 (礦物)"
+   }
+  },
+  "Halite Cubes": null,
+  "Hanksite": {
+   "description": "sulfate-carbonate mineral",
+   "en": "hanksite",
+   "labels": {
+    "de": "Hanksit",
+    "en": "hanksite",
+    "es": "Hanksita",
+    "fr": "hanksite",
+    "it": "Hanksite",
+    "ja": "ハンクス石",
+    "pl": "Hanksyt",
+    "uk": "Ганксит",
+    "zh": "碳酸芒硝"
+   },
+   "qid": "Q1065515",
+   "titles": {
+    "eswiki": "Hanksita",
+    "frwiki": "Hanksite",
+    "itwiki": "Hanksite",
+    "plwiki": "Hanksyt",
+    "ukwiki": "Ганксит"
+   }
+  },
+  "Hawk's Eye": {
+   "description": "mineral",
+   "en": "falcon's eye",
+   "labels": {
+    "de": "Falkenauge",
+    "en": "falcon's eye",
+    "ja": "ホークスアイ",
+    "pl": "Kwarcowe sokole oko",
+    "pt": "Quartzo olho-de-falcão",
+    "ru": "Соколиный глаз (камень)",
+    "uk": "Соколине око (камінь)"
+   },
+   "qid": "Q430192",
+   "titles": {
+    "dewiki": "Falkenauge",
+    "plwiki": "Kwarcowe sokole oko",
+    "ptwiki": "Quartzo olho-de-falcão",
+    "ruwiki": "Соколиный глаз (камень)",
+    "ukwiki": "Соколине око (камінь)"
+   }
+  },
+  "Heliodor": {
+   "description": "gem-quality greenish-yellow variety of beryl",
+   "en": "heliodor",
+   "labels": {
+    "de": "Goldberyll",
+    "en": "heliodor",
+    "es": "heliodoro",
+    "fr": "héliodore",
+    "it": "eliodoro",
+    "pl": "heliodor",
+    "ru": "гелиодор",
+    "uk": "геліодор",
+    "zh": "金绿柱石",
+    "zh-cn": "金绿柱石"
+   },
+   "qid": "Q429730",
+   "titles": {
+    "dewiki": "Goldberyll",
+    "frwiki": "Héliodore (béryl)",
+    "itwiki": "Eliodoro (minerale)",
+    "plwiki": "Heliodor (minerał)",
+    "ruwiki": "Гелиодор (минерал)",
+    "ukwiki": "Геліодор (мінерал)",
+    "zhwiki": "金绿柱石"
+   }
+  },
+  "Hopper Salt": null,
+  "Ilmenite": {
+   "description": "titanium-iron(II) oxide mineral",
+   "en": "ilmenite",
+   "labels": {
+    "de": "Ilmenit",
+    "en": "ilmenite",
+    "es": "ilmenita",
+    "fr": "ilménite",
+    "it": "Ilmenite",
+    "ja": "イルメナイト",
+    "ko": "타이타늄철석",
+    "pl": "ilmenit",
+    "pt": "ilmenita",
+    "ru": "ильменит",
+    "uk": "ільменіт",
+    "zh": "钛铁矿",
+    "zh-cn": "钛铁矿",
+    "zh-hans": "钛铁矿"
+   },
+   "qid": "Q190729",
+   "titles": {
+    "dewiki": "Ilmenit",
+    "eswiki": "Ilmenita",
+    "frwiki": "Ilménite",
+    "itwiki": "Ilmenite",
+    "jawiki": "イルメナイト",
+    "kowiki": "타이타늄철석",
+    "plwiki": "Ilmenit",
+    "ptwiki": "Ilmenita",
+    "ruwiki": "Ильменит",
+    "ukwiki": "Ільменіт",
+    "zhwiki": "钛铁矿"
+   }
+  },
+  "Imperial Topaz": null,
+  "Iolite": {
+   "description": "gem variety of the mineral cordierite",
+   "en": "iolite",
+   "labels": {
+    "de": "Iolith",
+    "en": "iolite",
+    "fr": "iolite"
+   },
+   "qid": "Q122998805",
+   "titles": {}
+  },
+  "Iris Agate": null,
+  "Iron Meteorite": {
+   "description": "meteorite composed of iron-nickel alloy called meteoric iron",
+   "en": "iron meteorite",
+   "labels": {
+    "de": "Eisenmeteorit",
+    "en": "iron meteorite",
+    "es": "Meteorito metálico",
+    "fr": "météorite de fer",
+    "it": "meteorite ferroso",
+    "ja": "鉄隕石",
+    "ko": "철운석",
+    "pl": "meteoryt żelazny",
+    "pt": "siderito",
+    "ru": "железный метеорит",
+    "uk": "залізний метеорит",
+    "zh": "鐵隕石",
+    "zh-hans": "铁陨石"
+   },
+   "qid": "Q827989",
+   "titles": {
+    "dewiki": "Eisenmeteorit",
+    "eswiki": "Meteorito metálico",
+    "frwiki": "Météorite de fer",
+    "itwiki": "Meteorite ferroso",
+    "jawiki": "鉄隕石",
+    "kowiki": "철질운석",
+    "plwiki": "Meteoryt żelazny",
+    "ptwiki": "Siderito",
+    "ukwiki": "Залізні метеорити",
+    "zhwiki": "鐵隕石"
+   }
+  },
+  "Ironstone Nodule": null,
+  "Jadeite": {
+   "description": "pyroxene mineral",
+   "en": "jadeite",
+   "labels": {
+    "de": "Jadeit",
+    "en": "jadeite",
+    "es": "jadeíta",
+    "fr": "jadéite",
+    "it": "giadeite",
+    "ja": "ヒスイ輝石",
+    "ko": "경옥",
+    "pl": "jadeit",
+    "pt": "jadeíte",
+    "pt-br": "jadeíta",
+    "ru": "жадеит",
+    "uk": "жадеїт",
+    "zh": "翡翠",
+    "zh-cn": "翡翠",
+    "zh-hans": "翡翠"
+   },
+   "qid": "Q422173",
+   "titles": {
+    "dewiki": "Jadeit",
+    "eswiki": "Jadeíta",
+    "frwiki": "Jadéite",
+    "itwiki": "Giadeite",
+    "jawiki": "ヒスイ輝石",
+    "kowiki": "경옥",
+    "plwiki": "Jadeit",
+    "ruwiki": "Жадеит",
+    "ukwiki": "Жадеїт",
+    "zhwiki": "翡翠"
+   }
+  },
+  "Jet": null,
+  "Kernite": {
+   "description": "inoborate mineral",
+   "en": "kernite",
+   "labels": {
+    "de": "Kernit",
+    "en": "kernite",
+    "es": "kernita",
+    "fr": "Kernite",
+    "it": "Kernite",
+    "ja": "ケルナイト",
+    "pl": "Kernit",
+    "pt": "kernita",
+    "ru": "Кернит",
+    "uk": "Керніт",
+    "zh": "四水硼砂"
+   },
+   "qid": "Q424502",
+   "titles": {
+    "dewiki": "Kernit",
+    "eswiki": "Kernita",
+    "frwiki": "Kernite",
+    "itwiki": "Kernite",
+    "plwiki": "Kernit",
+    "ptwiki": "Kernita",
+    "ruwiki": "Кернит",
+    "ukwiki": "Керніт",
+    "zhwiki": "四水硼砂"
+   }
+  },
+  "Lapis Lazuli": {
+   "description": "contact metamorphic rock containing lazurite (but in most cases is haüyne), pyrite and calcite, mainly",
+   "en": "lapis lazuli",
+   "labels": {
+    "de": "Lapislazuli",
+    "en": "lapis lazuli",
+    "es": "lapislázuli",
+    "fr": "lapis-lazuli",
+    "it": "lapislazzuli",
+    "ja": "ラピスラズリ",
+    "ko": "청금석",
+    "pl": "lapis lazuli",
+    "pt": "lápis-lazúli",
+    "pt-br": "lápis-lazúli",
+    "ru": "афганский лазурит",
+    "uk": "афганський лазурит",
+    "zh": "青金石",
+    "zh-cn": "青金石",
+    "zh-hans": "青金石"
+   },
+   "qid": "Q216798",
+   "titles": {
+    "dewiki": "Lapislazuli",
+    "eswiki": "Lapislázuli",
+    "frwiki": "Lapis-lazuli",
+    "itwiki": "Lapislazzuli",
+    "jawiki": "ラピスラズリ",
+    "kowiki": "청금석",
+    "plwiki": "Lapis lazuli",
+    "ptwiki": "Lápis-lazúli",
+    "ruwiki": "Афганский лазурит",
+    "ukwiki": "Афганський лазурит",
+    "zhwiki": "青金岩"
+   }
+  },
+  "Larimar": {
+   "description": "blue gemstone from the Dominican Republic",
+   "en": "larimar",
+   "labels": {
+    "de": "Larimar",
+    "en": "larimar",
+    "es": "larimar",
+    "fr": "larimar",
+    "ja": "ラリマー",
+    "pl": "larimar",
+    "ru": "ларимар",
+    "zh": "海紋石"
+   },
+   "qid": "Q2502146",
+   "titles": {
+    "eswiki": "Larimar",
+    "frwiki": "Larimar",
+    "jawiki": "ラリマー",
+    "plwiki": "Larimar",
+    "ruwiki": "Ларимар"
+   }
+  },
+  "Larvikite": {
+   "description": "igneous rock, variety of syenite or monzonite",
+   "en": "larvikite",
+   "labels": {
+    "de": "Larvikit",
+    "en": "larvikite",
+    "fr": "Larvikite",
+    "it": "Larvikite",
+    "ja": "ラルビカイト",
+    "uk": "Ларвікіт"
+   },
+   "qid": "Q1397061",
+   "titles": {
+    "dewiki": "Larvikit",
+    "frwiki": "Larvikite",
+    "itwiki": "Larvikite",
+    "jawiki": "ラルビカイト",
+    "ukwiki": "Ларвікіт"
+   }
+  },
+  "Lepidolite": null,
+  "Limestone": {
+   "description": "sedimentary rocks made of the chemical substance calcium carbonate",
+   "en": "limestone",
+   "labels": {
+    "de": "Kalkstein",
+    "en": "limestone",
+    "es": "caliza",
+    "fr": "calcaire",
+    "it": "calcare",
+    "ja": "石灰岩",
+    "ko": "석회암",
+    "pl": "wapień",
+    "pt": "calcário",
+    "pt-br": "calcário",
+    "ru": "известняк",
+    "uk": "вапняк",
+    "zh": "石灰岩"
+   },
+   "qid": "Q23757",
+   "titles": {
+    "dewiki": "Kalkstein",
+    "eswiki": "Caliza",
+    "frwiki": "Calcaire",
+    "itwiki": "Calcare",
+    "jawiki": "石灰岩",
+    "kowiki": "석회암",
+    "plwiki": "Wapień",
+    "ptwiki": "Calcário",
+    "ruwiki": "Известняк",
+    "ukwiki": "Вапняк",
+    "zhwiki": "石灰岩"
+   }
+  },
+  "Lodestone": {
+   "description": "naturally magnetized mineral, magnetite variety",
+   "en": "lodestone",
+   "labels": {
+    "de": "magnetit",
+    "en": "lodestone",
+    "es": "Piedra de imán",
+    "ja": "ロードストーン",
+    "pl": "magnetyt",
+    "pt": "Pedra-imã",
+    "zh": "天然磁石"
+   },
+   "qid": "Q3480938",
+   "titles": {
+    "eswiki": "Piedra de imán",
+    "ptwiki": "Pedra-imã"
+   }
+  },
+  "Magnetite": {
+   "description": "iron ore mineral",
+   "en": "magnetite",
+   "labels": {
+    "de": "Magnetit",
+    "en": "magnetite",
+    "es": "magnetita",
+    "fr": "magnétite",
+    "it": "magnetite",
+    "ja": "磁鉄鉱",
+    "ko": "자철석",
+    "pl": "magnetyt",
+    "pt": "magnetita",
+    "ru": "магнетит",
+    "uk": "магнетит",
+    "zh": "磁鐵礦",
+    "zh-cn": "磁铁矿",
+    "zh-hans": "磁铁矿"
+   },
+   "qid": "Q181395",
+   "titles": {
+    "dewiki": "Magnetit",
+    "eswiki": "Magnetita",
+    "frwiki": "Magnétite",
+    "itwiki": "Magnetite",
+    "jawiki": "磁鉄鉱",
+    "kowiki": "자철석",
+    "plwiki": "Magnetyt",
+    "ptwiki": "Magnetita",
+    "ruwiki": "Магнетит",
+    "ukwiki": "Магнетит",
+    "zhwiki": "磁鐵礦"
+   }
+  },
+  "Malachite": {
+   "description": "carbonate mineral",
+   "en": "malachite",
+   "labels": {
+    "de": "Malachit",
+    "en": "malachite",
+    "es": "malaquita",
+    "fr": "malachite",
+    "it": "malachite",
+    "ja": "孔雀石",
+    "ko": "공작석",
+    "pl": "Malachit",
+    "pt": "malaquite",
+    "pt-br": "malaquita",
+    "ru": "малахит",
+    "uk": "малахіт",
+    "zh": "碱式碳酸铜",
+    "zh-cn": "碱式碳酸铜",
+    "zh-hans": "碱式碳酸铜"
+   },
+   "qid": "Q164411",
+   "titles": {
+    "dewiki": "Malachit",
+    "eswiki": "Malaquita",
+    "frwiki": "Malachite",
+    "itwiki": "Malachite",
+    "jawiki": "孔雀石",
+    "kowiki": "공작석",
+    "plwiki": "Malachit",
+    "ptwiki": "Malaquita",
+    "ruwiki": "Малахит",
+    "ukwiki": "Малахіт",
+    "zhwiki": "孔雀石"
+   }
+  },
+  "Malachite Bubbles": null,
+  "Marble": {
+   "description": "foliated metamorphic rock of carbonatic minerals",
+   "en": "marble",
+   "labels": {
+    "de": "Marmor",
+    "en": "marble",
+    "es": "mármol",
+    "fr": "marbre",
+    "it": "marmo",
+    "ja": "大理石",
+    "ko": "대리암",
+    "pl": "marmur",
+    "pt": "mármore",
+    "pt-br": "mármore",
+    "ru": "мрамор",
+    "uk": "мармур",
+    "zh": "大理岩"
+   },
+   "qid": "Q40861",
+   "titles": {
+    "dewiki": "Marmor",
+    "eswiki": "Mármol",
+    "frwiki": "Marbre",
+    "itwiki": "Marmo",
+    "jawiki": "大理石",
+    "kowiki": "대리암",
+    "plwiki": "Marmur",
+    "ptwiki": "Mármore",
+    "ruwiki": "Мрамор",
+    "ukwiki": "Мармур",
+    "zhwiki": "大理岩"
+   }
+  },
+  "Marcasite": {
+   "description": "mineral, marcasite–löllingite mineral group",
+   "en": "marcasite",
+   "labels": {
+    "de": "Markasit",
+    "en": "marcasite",
+    "es": "marcasita",
+    "fr": "marcassite",
+    "it": "marcasite",
+    "ja": "白鉄鉱",
+    "ko": "마카사이트",
+    "pl": "Markasyt",
+    "pt": "marcassita",
+    "ru": "Марказит",
+    "uk": "Марказит",
+    "zh": "白铁矿",
+    "zh-cn": "白铁矿",
+    "zh-hans": "白铁矿"
+   },
+   "qid": "Q409087",
+   "titles": {
+    "dewiki": "Markasit",
+    "eswiki": "Marcasita",
+    "frwiki": "Marcassite",
+    "itwiki": "Marcasite",
+    "jawiki": "白鉄鉱",
+    "kowiki": "마카사이트",
+    "plwiki": "Markasyt",
+    "ptwiki": "Marcassita",
+    "ruwiki": "Марказит",
+    "ukwiki": "Марказит",
+    "zhwiki": "白铁矿"
+   }
+  },
+  "Marmatite": {
+   "description": "sphalerite variety",
+   "en": "marmatite",
+   "labels": {
+    "en": "marmatite",
+    "uk": "Марматит"
+   },
+   "qid": "Q12121482",
+   "titles": {
+    "ukwiki": "Марматит"
+   }
+  },
+  "Megalodon": {
+   "description": "extinct species of shark",
+   "en": "megalodon",
+   "labels": {
+    "de": "Megalodon",
+    "en": "megalodon",
+    "es": "Carcharocles megalodon",
+    "fr": "Mégalodon",
+    "it": "Carcharodon megalodon",
+    "ja": "メガロドン",
+    "ko": "메갈로돈",
+    "pl": "Megalodon",
+    "pt": "Carcharodon megalodon",
+    "pt-br": "Carcharodon megalodon",
+    "ru": "мегалодон",
+    "uk": "Мегалодон",
+    "zh": "巨齒鯊"
+   },
+   "qid": "Q163873",
+   "titles": {
+    "dewiki": "Megalodon",
+    "eswiki": "Otodus megalodon",
+    "frwiki": "Mégalodon",
+    "itwiki": "Otodus megalodon",
+    "jawiki": "メガロドン",
+    "kowiki": "메갈로돈",
+    "plwiki": "Megalodon",
+    "ptwiki": "Megalodonte",
+    "ruwiki": "Мегалодон",
+    "ukwiki": "Мегалодон",
+    "zhwiki": "巨齿鲨"
+   }
+  },
+  "Milky Quartz": null,
+  "Mimetite": {
+   "description": "lead arsenate chloride mineral",
+   "en": "mimetite",
+   "labels": {
+    "de": "Mimetesit",
+    "en": "mimetite",
+    "es": "Mimetita",
+    "fr": "mimétite",
+    "it": "Mimetite",
+    "ja": "ミメット鉱",
+    "pl": "Mimetezyt",
+    "pt": "mimetita",
+    "ru": "Миметизит",
+    "uk": "Міметезит",
+    "zh": "砷铅矿",
+    "zh-cn": "砷铅矿",
+    "zh-hans": "砷铅矿"
+   },
+   "qid": "Q424328",
+   "titles": {
+    "dewiki": "Mimetesit",
+    "eswiki": "Mimetita",
+    "frwiki": "Mimétite",
+    "itwiki": "Mimetite",
+    "plwiki": "Mimetezyt",
+    "ptwiki": "Mimetita",
+    "ruwiki": "Миметизит",
+    "ukwiki": "Міметезит",
+    "zhwiki": "砷鉛礦"
+   }
+  },
+  "Molybdenite Disc": null,
+  "Morganite": {
+   "description": "beryl variety",
+   "en": "morganite",
+   "labels": {
+    "de": "Morganit",
+    "en": "morganite",
+    "es": "morganita",
+    "fr": "morganite",
+    "it": "morganite",
+    "ja": "モルガナイト",
+    "pl": "morganit",
+    "pt": "morganite",
+    "ru": "морганит",
+    "zh": "摩根石"
+   },
+   "qid": "Q2016530",
+   "titles": {
+    "eswiki": "Morganita",
+    "frwiki": "Morganite",
+    "itwiki": "Morganite",
+    "jawiki": "モルガナイト",
+    "plwiki": "Morganit",
+    "ptwiki": "Morganite",
+    "ruwiki": "Морганит",
+    "zhwiki": "摩根石"
+   }
+  },
+  "Mosasaur vertebra": null,
+  "Moss Agate": {
+   "description": "agate variety",
+   "en": "moss agate",
+   "labels": {
+    "de": "Moosachat",
+    "en": "moss agate",
+    "es": "ágata musgosa",
+    "ko": "이끼 마노",
+    "pl": "Agat mszysty",
+    "pt": "ágata muscínea",
+    "ru": "Моховой агат"
+   },
+   "qid": "Q2413388",
+   "titles": {
+    "dewiki": "Moosachat",
+    "kowiki": "이끼 마노",
+    "plwiki": "Agat mszysty",
+    "ptwiki": "Ágata muscínea",
+    "ruwiki": "Моховой агат"
+   }
+  },
+  "Muscovite": {
+   "description": "true mica, phyllosilicate mineral; polytypes: 1M, 2A, 2M2, 3T",
+   "en": "muscovite",
+   "labels": {
+    "de": "Muskovit",
+    "en": "muscovite",
+    "es": "moscovita",
+    "fr": "Muscovite",
+    "it": "Muscovite",
+    "ja": "白雲母",
+    "ko": "백운모",
+    "pl": "Muskowit",
+    "pt": "moscovita",
+    "pt-br": "muscovita",
+    "ru": "мусковит",
+    "uk": "мусковіт",
+    "zh": "白雲母",
+    "zh-cn": "白云母",
+    "zh-hans": "白云母"
+   },
+   "qid": "Q106532",
+   "titles": {
+    "dewiki": "Muskovit",
+    "eswiki": "Moscovita",
+    "frwiki": "Muscovite",
+    "itwiki": "Muscovite",
+    "jawiki": "白雲母",
+    "kowiki": "백운모",
+    "plwiki": "Muskowit",
+    "ptwiki": "Moscovita",
+    "ruwiki": "Мусковит",
+    "ukwiki": "Мусковіт",
+    "zhwiki": "白雲母"
+   }
+  },
+  "Old Brick Pebble": null,
+  "Onyx Marble": {
+   "description": "banded carbonate rock that forms mainly around hot springs; typically used as a decorative or architectural material or for small ornamental objects",
+   "en": "onyx marble",
+   "labels": {
+    "de": "Onyxmarmor",
+    "en": "onyx marble",
+    "es": "mármol de ónice",
+    "fr": "marbre stalagmitique zoné",
+    "it": "alabastro calcitico",
+    "zh": "缟玛瑙大理石"
+   },
+   "qid": "Q14552475",
+   "titles": {
+    "dewiki": "Onyxmarmor"
+   }
+  },
+  "Opalite": {
+   "description": "Trade name for opal and moonstone simulants",
+   "en": "opalite",
+   "labels": {
+    "de": "Opalith",
+    "en": "opalite",
+    "es": "Opalina",
+    "pl": "Opalit",
+    "pt": "Opalita"
+   },
+   "qid": "Q7095570",
+   "titles": {
+    "dewiki": "Opalith",
+    "eswiki": "Opalina (vidrio)",
+    "plwiki": "Opalit",
+    "ptwiki": "Opalita"
+   }
+  },
+  "Opalized Wood": null,
+  "Optical Calcite": null,
+  "Orange Calcite": null,
+  "Orpiment": {
+   "description": "sulfide mineral",
+   "en": "orpiment",
+   "labels": {
+    "de": "Auripigment",
+    "en": "orpiment",
+    "es": "oropimente",
+    "fr": "orpiment",
+    "it": "orpimento",
+    "ja": "雄黄",
+    "ko": "웅황",
+    "pl": "Aurypigment",
+    "pt": "auripigmento",
+    "ru": "Аурипигмент",
+    "uk": "аурипігмент",
+    "zh": "雌黃",
+    "zh-cn": "雌黄",
+    "zh-hans": "雌黄"
+   },
+   "qid": "Q419183",
+   "titles": {
+    "dewiki": "Auripigment",
+    "eswiki": "Oropimente",
+    "frwiki": "Orpiment",
+    "itwiki": "Orpimento",
+    "jawiki": "雄黄",
+    "kowiki": "웅황",
+    "plwiki": "Aurypigment",
+    "ptwiki": "Auripigmento",
+    "ruwiki": "Аурипигмент",
+    "ukwiki": "Аурипігмент",
+    "zhwiki": "雌黃"
+   }
+  },
+  "Orthoceras": {
+   "description": "genus of molluscs (fossil)",
+   "en": "Orthoceras",
+   "labels": {
+    "de": "Orthoceras",
+    "en": "Orthoceras",
+    "es": "Orthoceras",
+    "fr": "Orthoceras",
+    "it": "Orthoceras regulare",
+    "ja": "オルソセラス",
+    "pl": "Orthoceras",
+    "pt": "Ortocono",
+    "ru": "Ортоцерасы",
+    "uk": "Orthoceras",
+    "zh": "直角石屬",
+    "zh-cn": "直角石属",
+    "zh-hans": "直角石属"
+   },
+   "qid": "Q5605054",
+   "titles": {
+    "dewiki": "Orthoceras",
+    "eswiki": "Orthoceras (molusco)",
+    "frwiki": "Orthoceras (animal)",
+    "itwiki": "Orthoceras regulare",
+    "jawiki": "オルソセラス",
+    "plwiki": "Orthoceras",
+    "ptwiki": "Orthoceras (molusco)",
+    "ruwiki": "Ортоцерасы",
+    "zhwiki": "直角石"
+   }
+  },
+  "Orthoclase": {
+   "description": "feldspar mineral",
+   "en": "orthoclase",
+   "labels": {
+    "de": "Orthoklas",
+    "en": "orthoclase",
+    "es": "ortoclasa",
+    "fr": "Orthose",
+    "it": "ortoclasio",
+    "ja": "正長石",
+    "ko": "정장석",
+    "pl": "ortoklaz",
+    "pt": "ortoclase",
+    "pt-br": "ortoclase",
+    "ru": "ортоклаз",
+    "uk": "ортоклаз",
+    "zh": "正長石"
+   },
+   "qid": "Q21813710",
+   "titles": {
+    "dewiki": "Orthoklas",
+    "eswiki": "Ortoclasa",
+    "frwiki": "Orthose",
+    "itwiki": "Ortoclasio",
+    "jawiki": "正長石",
+    "kowiki": "정장석",
+    "plwiki": "Ortoklaz",
+    "ptwiki": "Ortoclase",
+    "ruwiki": "Ортоклаз",
+    "ukwiki": "Ортоклаз",
+    "zhwiki": "正長石"
+   }
+  },
+  "Painite": {
+   "description": "borate mineral",
+   "en": "painite",
+   "labels": {
+    "de": "Painit",
+    "en": "painite",
+    "es": "Painita",
+    "fr": "Painite",
+    "it": "Painite",
+    "ja": "ペイン石",
+    "pl": "Painit",
+    "pt": "painita",
+    "ru": "пейнит",
+    "uk": "Пейніт",
+    "zh": "铝硼锆钙石"
+   },
+   "qid": "Q419868",
+   "titles": {
+    "dewiki": "Painit",
+    "eswiki": "Painita",
+    "frwiki": "Painite",
+    "itwiki": "Painite",
+    "plwiki": "Painit",
+    "ptwiki": "Painita",
+    "ruwiki": "Пейнит",
+    "ukwiki": "Пейніт",
+    "zhwiki": "铝硼锆钙石"
+   }
+  },
+  "Peacock Ore": null,
+  "Petrified wood": {
+   "description": "fossilized remains of plants",
+   "en": "petrified wood",
+   "labels": {
+    "de": "Holzstein",
+    "en": "petrified wood",
+    "es": "madera petrificada",
+    "fr": "bois pétrifié",
+    "it": "foresta fossile",
+    "ja": "石化木",
+    "ko": "석화목",
+    "pl": "Skrzemieniałe drewno",
+    "pt": "madeira petrificada",
+    "ru": "Окаменелое дерево",
+    "uk": "ксилоліт",
+    "zh": "硅化木",
+    "zh-hans": "石化木"
+   },
+   "qid": "Q837117",
+   "titles": {
+    "dewiki": "Holzstein",
+    "eswiki": "Bosque petrificado",
+    "frwiki": "Bois pétrifié",
+    "itwiki": "Foresta fossile",
+    "kowiki": "석화목",
+    "plwiki": "Skrzemieniałe drewno",
+    "ptwiki": "Madeira petrificada",
+    "ruwiki": "Окаменелое дерево",
+    "ukwiki": "Ксилоліт",
+    "zhwiki": "石化木"
+   }
+  },
+  "Phosphor Sphalerite": null,
+  "Phyllite": {
+   "description": "foliated metamorphic rock",
+   "en": "phyllite",
+   "labels": {
+    "de": "Phyllit",
+    "en": "phyllite",
+    "es": "filita",
+    "fr": "Phyllite",
+    "it": "Fillade",
+    "ja": "千枚岩",
+    "ko": "천매암",
+    "pl": "Fyllit",
+    "pt": "filito",
+    "ru": "Филлит",
+    "uk": "Філіт",
+    "zh": "千枚岩",
+    "zh-hans": "千枚岩"
+   },
+   "qid": "Q731880",
+   "titles": {
+    "dewiki": "Phyllit",
+    "eswiki": "Filita",
+    "frwiki": "Phyllite",
+    "itwiki": "Fillade",
+    "jawiki": "千枚岩",
+    "kowiki": "천매암",
+    "plwiki": "Fyllit",
+    "ptwiki": "Filito",
+    "ruwiki": "Филлит",
+    "ukwiki": "Філіт",
+    "zhwiki": "千枚岩"
+   }
+  },
+  "Picture Jasper": null,
+  "Pink Fluorite": null,
+  "Pink Halite": null,
+  "Precious Opal": {
+   "description": "Precious opal shows a variable interplay of internal colors, and though it is a mineraloid, it has an internal structure.",
+   "en": "precious opal",
+   "labels": {
+    "en": "precious opal",
+    "es": "ópalo noble"
+   },
+   "qid": "Q110686457",
+   "titles": {}
+  },
+  "Proustite": {
+   "description": "sulfosalt mineral",
+   "en": "proustite",
+   "labels": {
+    "de": "Proustit",
+    "en": "proustite",
+    "es": "proustita",
+    "fr": "Proustite",
+    "it": "Proustite",
+    "ja": "淡紅銀鉱",
+    "pl": "Proustyt",
+    "ru": "Прустит",
+    "uk": "Прустит",
+    "zh": "淡红银矿"
+   },
+   "qid": "Q411817",
+   "titles": {
+    "dewiki": "Proustit",
+    "eswiki": "Proustita",
+    "frwiki": "Proustite",
+    "itwiki": "Proustite",
+    "jawiki": "淡紅銀鉱",
+    "plwiki": "Proustyt",
+    "ruwiki": "Прустит",
+    "ukwiki": "Прустит",
+    "zhwiki": "淡红银矿"
+   }
+  },
+  "Psychopyge": {
+   "description": "genus of trilobites (fossil)",
+   "en": "Psychopyge",
+   "labels": {
+    "de": "Psychopyge",
+    "en": "Psychopyge",
+    "es": "Psychopyge",
+    "fr": "Psychopyge",
+    "it": "Psychopyge",
+    "pl": "Psychopyge",
+    "pt": "Psychopyge",
+    "ru": "Psychopyge",
+    "uk": "Psychopyge"
+   },
+   "qid": "Q15631801",
+   "titles": {}
+  },
+  "Pumice": {
+   "description": "light coloured highly vesicular volcanic rock",
+   "en": "pumice",
+   "labels": {
+    "de": "Bims",
+    "en": "pumice",
+    "es": "Pumita",
+    "fr": "ponce",
+    "it": "pomice",
+    "ja": "軽石",
+    "ko": "경석",
+    "pl": "Pumeks",
+    "pt": "pedra-pome",
+    "ru": "Пемза",
+    "uk": "Пемза",
+    "zh": "浮岩",
+    "zh-cn": "浮岩",
+    "zh-hans": "浮岩"
+   },
+   "qid": "Q180044",
+   "titles": {
+    "dewiki": "Bims",
+    "eswiki": "Pumita",
+    "frwiki": "Ponce",
+    "itwiki": "Pomice",
+    "jawiki": "軽石",
+    "kowiki": "경석",
+    "plwiki": "Pumeks",
+    "ptwiki": "Pedra-pomes",
+    "ruwiki": "Пемза",
+    "ukwiki": "Пемза",
+    "zhwiki": "浮岩"
+   }
+  },
+  "Purple Cubes": null,
+  "Purple Fluorite": null,
+  "Pyrite Cubes": null,
+  "Pyrite in the Gold": null,
+  "Pyrope": {
+   "description": "mineral, nesosilicate garnet",
+   "en": "pyrope",
+   "labels": {
+    "de": "Pyrop",
+    "en": "pyrope",
+    "es": "piropo",
+    "fr": "pyrope",
+    "it": "piropo",
+    "ja": "苦礬柘榴石",
+    "pl": "pirop",
+    "ru": "пироп",
+    "uk": "піроп",
+    "zh": "紅榴石",
+    "zh-cn": "镁铝榴石",
+    "zh-hans": "镁铝榴石"
+   },
+   "qid": "Q421814",
+   "titles": {
+    "dewiki": "Pyrop",
+    "eswiki": "Piropo (mineral)",
+    "frwiki": "Pyrope",
+    "itwiki": "Piropo",
+    "jawiki": "苦礬柘榴石",
+    "plwiki": "Pirop",
+    "ruwiki": "Пироп",
+    "ukwiki": "Піроп"
+   }
+  },
+  "Quartz Geode": null,
+  "Quartz Points": null,
+  "Rainbow Fluorite": null,
+  "Rainbow Hematite": null,
+  "Rainbow Moonstone": null,
+  "Rainbow Pyrite": null,
+  "Red Beryl": {
+   "description": "beryl var.",
+   "en": "red beryl",
+   "labels": {
+    "de": "Roter Beryll",
+    "en": "red beryl",
+    "fr": "béryl rouge",
+    "it": "Berillo rosso",
+    "ja": "レッドベリル",
+    "pl": "biksbit",
+    "ru": "Красный изумруд",
+    "uk": "Червоний берил",
+    "zh": "红绿柱石"
+   },
+   "qid": "Q429651",
+   "titles": {
+    "dewiki": "Roter Beryll",
+    "frwiki": "Béryl rouge",
+    "itwiki": "Berillo rosso",
+    "jawiki": "レッドベリル",
+    "plwiki": "Biksbit",
+    "ruwiki": "Красный берилл",
+    "ukwiki": "Червоний берил",
+    "zhwiki": "红绿柱石"
+   }
+  },
+  "Red Jasper": null,
+  "Red Ochre": {
+   "description": "iron oxide red pigment made from clay or by calcining selected grades of yellow ocher",
+   "en": "red ocher",
+   "labels": {
+    "de": "Rotocker",
+    "en": "red ocher",
+    "es": "ocre rojo",
+    "fr": "ocre rouge",
+    "it": "ocra rossa",
+    "ja": "弁柄",
+    "pt": "ocre vermelho",
+    "ru": "красная охра",
+    "zh": "土紅"
+   },
+   "qid": "Q1054292",
+   "titles": {
+    "frwiki": "Ocre rouge",
+    "itwiki": "Ocra rossa",
+    "jawiki": "弁柄",
+    "zhwiki": "土紅色"
+   }
+  },
+  "Red Spinel": null,
+  "Rhodochrosite": {
+   "description": "manganese carbonate mineral",
+   "en": "rhodochrosite",
+   "labels": {
+    "de": "Rhodochrosit",
+    "en": "rhodochrosite",
+    "es": "rodocrosita",
+    "fr": "rhodochrosite",
+    "it": "rodocrosite",
+    "ja": "菱マンガン鉱",
+    "ko": "능망가니즈광",
+    "pl": "rodochrozyt",
+    "pt": "rodocrosita",
+    "ru": "Родохрозит",
+    "uk": "Родохрозит",
+    "zh": "印加玫瑰石",
+    "zh-cn": "菱锰矿",
+    "zh-hans": "菱锰矿"
+   },
+   "qid": "Q409793",
+   "titles": {
+    "dewiki": "Rhodochrosit",
+    "eswiki": "Rodocrosita",
+    "frwiki": "Rhodochrosite",
+    "itwiki": "Rodocrosite",
+    "jawiki": "菱マンガン鉱",
+    "kowiki": "능망가니즈광",
+    "plwiki": "Rodochrozyt",
+    "ptwiki": "Rodocrosita",
+    "ruwiki": "Родохрозит",
+    "ukwiki": "Родохрозит",
+    "zhwiki": "菱錳礦"
+   }
+  },
+  "Rhodonite": null,
+  "Roofing Slate": null,
+  "Rose Quartz": {
+   "description": "mineral, quartz variety",
+   "en": "rose quartz",
+   "labels": {
+    "de": "Rosenquarz",
+    "en": "rose quartz",
+    "es": "cuarzo rosa",
+    "fr": "quartz rose",
+    "it": "quarzo rosa",
+    "ja": "ローズクォーツ",
+    "pl": "Kwarc różowy",
+    "pt": "quartzo rosa",
+    "ru": "розовый кварц"
+   },
+   "qid": "Q429911",
+   "titles": {
+    "dewiki": "Rosenquarz",
+    "eswiki": "Cuarzo rosa",
+    "frwiki": "Quartz rose",
+    "itwiki": "Quarzo rosa",
+    "jawiki": "ローズクォーツ",
+    "plwiki": "Kwarc różowy",
+    "ptwiki": "Quartzo rosa",
+    "ruwiki": "Розовый кварц"
+   }
+  },
+  "Ruby Jack": null,
+  "Rust Lump": null,
+  "Sand Calcite": null,
+  "Sandstone": {
+   "description": "type of sedimentary rock",
+   "en": "sandstone",
+   "labels": {
+    "de": "Sandstein",
+    "en": "sandstone",
+    "es": "arenisca",
+    "fr": "grès",
+    "it": "arenaria",
+    "ja": "砂岩",
+    "ko": "사암",
+    "pl": "piaskowiec",
+    "pt": "arenito",
+    "pt-br": "arenito",
+    "ru": "песчаник",
+    "uk": "пісковик",
+    "zh": "砂岩",
+    "zh-cn": "沙岩",
+    "zh-hans": "沙岩"
+   },
+   "qid": "Q13085",
+   "titles": {
+    "dewiki": "Sandstein",
+    "eswiki": "Arenisca",
+    "frwiki": "Grès (géologie)",
+    "itwiki": "Arenaria",
+    "jawiki": "砂岩",
+    "kowiki": "사암",
+    "plwiki": "Piaskowiec",
+    "ptwiki": "Arenito",
+    "ruwiki": "Песчаник",
+    "ukwiki": "Пісковик",
+    "zhwiki": "砂岩"
+   }
+  },
+  "Sapphire": {
+   "description": "gem variety of corundum",
+   "en": "sapphire",
+   "labels": {
+    "de": "Saphir",
+    "en": "sapphire",
+    "es": "zafiro",
+    "fr": "saphir",
+    "it": "zaffiro",
+    "ja": "サファイア",
+    "ko": "사파이어",
+    "pl": "szafir",
+    "pt": "safira",
+    "pt-br": "safira",
+    "ru": "сапфир",
+    "uk": "Сапфір",
+    "zh": "蓝宝石",
+    "zh-cn": "蓝宝石",
+    "zh-hans": "蓝宝石"
+   },
+   "qid": "Q127583",
+   "titles": {
+    "dewiki": "Saphir",
+    "eswiki": "Zafiro",
+    "frwiki": "Saphir",
+    "itwiki": "Zaffiro",
+    "jawiki": "サファイア",
+    "kowiki": "사파이어",
+    "plwiki": "Szafir",
+    "ptwiki": "Safira",
+    "ruwiki": "Сапфир",
+    "ukwiki": "Сапфір",
+    "zhwiki": "蓝宝石"
+   }
+  },
+  "Scheelite": {
+   "description": "tungstate mineral",
+   "en": "scheelite",
+   "labels": {
+    "de": "Scheelit",
+    "en": "scheelite",
+    "es": "scheelita",
+    "fr": "Scheelite",
+    "it": "Scheelite",
+    "ja": "灰重石",
+    "ko": "회중석",
+    "pl": "Szelit",
+    "pt": "scheelita",
+    "ru": "Шеелит",
+    "uk": "Шеєліт",
+    "zh": "白钨矿",
+    "zh-cn": "白钨矿",
+    "zh-hans": "白钨矿"
+   },
+   "qid": "Q409096",
+   "titles": {
+    "dewiki": "Scheelit",
+    "eswiki": "Scheelita",
+    "frwiki": "Scheelite",
+    "itwiki": "Scheelite",
+    "jawiki": "灰重石",
+    "kowiki": "회중석",
+    "plwiki": "Szelit",
+    "ptwiki": "Scheelita",
+    "ruwiki": "Шеелит",
+    "ukwiki": "Шеєліт",
+    "zhwiki": "白钨矿"
+   }
+  },
+  "Schorl": {
+   "description": "tourmaline, cyclosilicate mineral",
+   "en": "schorl",
+   "labels": {
+    "de": "Schörl",
+    "en": "schorl",
+    "es": "chorlo",
+    "fr": "Schorl",
+    "it": "Sciorlite",
+    "ja": "鉄電気石",
+    "pl": "Szerlit",
+    "ru": "Чёрный турмалин",
+    "uk": "шерл"
+   },
+   "qid": "Q2411340",
+   "titles": {
+    "dewiki": "Schörl (Mineral)",
+    "eswiki": "Chorlo",
+    "frwiki": "Schorl",
+    "itwiki": "Sciorlite",
+    "jawiki": "鉄電気石",
+    "plwiki": "Szerlit",
+    "ruwiki": "Шерл",
+    "ukwiki": "Шерл"
+   }
+  },
+  "Scoria": {
+   "description": "type of volcanic rock",
+   "en": "scoria",
+   "labels": {
+    "de": "Schlacke",
+    "en": "scoria",
+    "es": "Escoria volcánica",
+    "fr": "Scorie",
+    "it": "scoria",
+    "ja": "スコリア",
+    "ko": "스코리아",
+    "pl": "Scoria",
+    "ru": "вулканический шлак",
+    "uk": "Вулканічний шлак",
+    "zh": "火山渣"
+   },
+   "qid": "Q6642389",
+   "titles": {
+    "eswiki": "Escoria volcánica",
+    "frwiki": "Scorie",
+    "itwiki": "Scoria",
+    "jawiki": "スコリア",
+    "kowiki": "스코리아",
+    "plwiki": "Scoria",
+    "ruwiki": "Вулканический шлак",
+    "ukwiki": "Вулканічний шлак",
+    "zhwiki": "火山渣"
+   }
+  },
+  "Selenite Blade": null,
+  "Septarian": null,
+  "Serpentine Jade": null,
+  "Shale": {
+   "description": "fine-grained, clastic sedimentary rock",
+   "en": "shale",
+   "labels": {
+    "de": "Schiefer",
+    "en": "shale",
+    "es": "lutita",
+    "fr": "schiste argileux",
+    "it": "shale",
+    "ja": "頁岩",
+    "ko": "셰일",
+    "pl": "łupek ilasty",
+    "pt": "folhelho",
+    "ru": "глинистый сланец",
+    "uk": "глинистий сланець",
+    "zh": "页岩"
+   },
+   "qid": "Q751300",
+   "titles": {
+    "eswiki": "Shale",
+    "frwiki": "Shale",
+    "itwiki": "Shale (roccia)",
+    "jawiki": "頁岩",
+    "kowiki": "셰일",
+    "plwiki": "Łupek ilasty",
+    "ptwiki": "Folhelho",
+    "ruwiki": "Глинистый сланец",
+    "ukwiki": "Глинистий сланець",
+    "zhwiki": "页岩"
+   }
+  },
+  "Shark teeth": null,
+  "Shattuckite": {
+   "description": "inosilicate mineral",
+   "en": "shattuckite",
+   "labels": {
+    "de": "Shattuckit",
+    "en": "shattuckite",
+    "es": "Shattuckita",
+    "fr": "Shattuckite",
+    "it": "Shattuckite",
+    "ja": "シャッタカイト",
+    "pl": "Shattuckit",
+    "ru": "Шаттукит",
+    "uk": "Шатукіт"
+   },
+   "qid": "Q415383",
+   "titles": {
+    "dewiki": "Shattuckit",
+    "eswiki": "Shattuckita",
+    "frwiki": "Shattuckite",
+    "itwiki": "Shattuckite",
+    "plwiki": "Shattuckit",
+    "ruwiki": "Шаттукит",
+    "ukwiki": "Шатукіт"
+   }
+  },
+  "Sherry Topaz": null,
+  "Siderite": {
+   "description": "carbonate mineral",
+   "en": "siderite",
+   "labels": {
+    "de": "Siderit",
+    "en": "siderite",
+    "es": "siderita",
+    "fr": "Sidérite",
+    "it": "Siderite",
+    "ja": "菱鉄鉱",
+    "ko": "능철석",
+    "pl": "syderyt",
+    "pt": "siderita",
+    "ru": "Сидерит",
+    "uk": "сидерит",
+    "zh": "菱铁矿",
+    "zh-cn": "菱铁矿",
+    "zh-hans": "菱铁矿"
+   },
+   "qid": "Q192669",
+   "titles": {
+    "dewiki": "Siderit",
+    "eswiki": "Siderita",
+    "frwiki": "Sidérite",
+    "itwiki": "Siderite",
+    "jawiki": "菱鉄鉱",
+    "kowiki": "능철석",
+    "plwiki": "Syderyt",
+    "ptwiki": "Siderita",
+    "ruwiki": "Сидерит",
+    "ukwiki": "Сидерит",
+    "zhwiki": "菱铁矿"
+   }
+  },
+  "Siltstone": {
+   "description": "sedimentary rock which has a grain size in the silt range (per ISO 14688 between 0.002 and 0.063 mm)",
+   "en": "siltstone",
+   "labels": {
+    "de": "Schluffstein",
+    "en": "siltstone",
+    "es": "limolita",
+    "fr": "siltstone",
+    "it": "siltite",
+    "ja": "シルト石",
+    "pl": "siltyty",
+    "pt": "siltito",
+    "ru": "алевролит",
+    "uk": "алевроліт",
+    "zh": "粉砂岩",
+    "zh-cn": "粉砂岩",
+    "zh-hans": "粉砂岩"
+   },
+   "qid": "Q565731",
+   "titles": {
+    "dewiki": "Schluffstein",
+    "eswiki": "Limolita",
+    "frwiki": "Siltite",
+    "itwiki": "Siltite",
+    "ptwiki": "Siltito",
+    "ruwiki": "Алевролит",
+    "ukwiki": "Алевроліт",
+    "zhwiki": "粉砂岩"
+   }
+  },
+  "Skutterudite": {
+   "description": "perovskite structure, arsenide mineral",
+   "en": "skutterudite",
+   "labels": {
+    "de": "Skutterudit",
+    "en": "skutterudite",
+    "es": "nikelskutterudita",
+    "fr": "Skuttérudite",
+    "it": "skutterudite",
+    "ja": "スクッテルド鉱",
+    "pl": "skutterudyt",
+    "pt": "Skutterudita",
+    "ru": "скуттерудит",
+    "uk": "Скуттерудит",
+    "zh": "方鈷礦"
+   },
+   "qid": "Q417274",
+   "titles": {
+    "dewiki": "Skutterudit",
+    "eswiki": "Escuterudita",
+    "frwiki": "Skuttérudite",
+    "itwiki": "Skutterudite",
+    "jawiki": "スクッテルド鉱",
+    "plwiki": "Skutterudyt",
+    "ptwiki": "Skutterudita",
+    "ruwiki": "Скуттерудит",
+    "ukwiki": "Скуттерудит",
+    "zhwiki": "方鈷礦"
+   }
+  },
+  "Sky Turquoise": null,
+  "Slag 'Meteorite'": null,
+  "Slate": {
+   "description": "fine-grained, foliated, homogeneous, low-grade metamorphic rock",
+   "en": "slate",
+   "labels": {
+    "de": "Tonschiefer",
+    "en": "slate",
+    "es": "pizarra",
+    "fr": "ardoise",
+    "it": "ardesia",
+    "ja": "粘板岩",
+    "ko": "점판암",
+    "pl": "łupek",
+    "pt": "ardósia",
+    "ru": "аспидный сланец",
+    "uk": "аспідний сланець",
+    "zh": "板岩",
+    "zh-cn": "板岩",
+    "zh-hans": "板岩"
+   },
+   "qid": "Q207079",
+   "titles": {
+    "dewiki": "Tonschiefer",
+    "eswiki": "Pizarra (roca)",
+    "frwiki": "Ardoise",
+    "itwiki": "Ardesia",
+    "jawiki": "粘板岩",
+    "kowiki": "점판암",
+    "ptwiki": "Ardósia",
+    "ruwiki": "Аспидный сланец",
+    "ukwiki": "Аспідний сланець",
+    "zhwiki": "板岩"
+   }
+  },
+  "Smilodon canine": null,
+  "Smithsonite": {
+   "description": "carbonate mineral",
+   "en": "smithsonite",
+   "labels": {
+    "de": "Smithsonit",
+    "en": "smithsonite",
+    "es": "smithsonita",
+    "fr": "smithsonite",
+    "it": "Smithsonite",
+    "ja": "菱亜鉛鉱",
+    "ko": "능아연석",
+    "pl": "Smithsonit",
+    "pt": "smithsonita",
+    "ru": "Смифсонит",
+    "uk": "смітсоніт",
+    "zh": "菱锌矿",
+    "zh-cn": "菱锌矿",
+    "zh-hans": "菱锌矿"
+   },
+   "qid": "Q152400",
+   "titles": {
+    "dewiki": "Smithsonit",
+    "eswiki": "Smithsonita",
+    "frwiki": "Smithsonite",
+    "itwiki": "Smithsonite",
+    "jawiki": "菱亜鉛鉱",
+    "kowiki": "능아연석",
+    "plwiki": "Smithsonit",
+    "ptwiki": "Smithsonita",
+    "ruwiki": "Смитсонит",
+    "ukwiki": "Смітсоніт",
+    "zhwiki": "菱锌矿"
+   }
+  },
+  "Smoky Quartz": {
+   "description": "quartz variety",
+   "en": "smoky quartz",
+   "labels": {
+    "de": "Rauchquarz",
+    "en": "smoky quartz",
+    "es": "cuarzo ahumado",
+    "fr": "quartz fumé",
+    "it": "quarzo affumicato",
+    "ja": "スモーキークォーツ",
+    "ko": "연수정",
+    "pl": "kwarc dymny",
+    "pt": "quartzo fumado",
+    "ru": "раухтопаз",
+    "uk": "раухтопаз",
+    "zh": "茶晶"
+   },
+   "qid": "Q429935",
+   "titles": {
+    "dewiki": "Rauchquarz",
+    "eswiki": "Cuarzo ahumado",
+    "frwiki": "Quartz fumé",
+    "itwiki": "Quarzo affumicato",
+    "jawiki": "スモーキークォーツ",
+    "kowiki": "연수정",
+    "plwiki": "Kwarc dymny",
+    "ptwiki": "Quartzo fumado",
+    "ruwiki": "Раухтопаз",
+    "ukwiki": "Раухтопаз"
+   }
+  },
+  "Snowflake Obsidian": null,
+  "Sodalite": {
+   "description": "tectosilicate mineral",
+   "en": "sodalite",
+   "labels": {
+    "de": "Sodalith",
+    "en": "sodalite",
+    "es": "sodalita",
+    "fr": "Sodalite",
+    "it": "Sodalite",
+    "ja": "方ソーダ石",
+    "ko": "소달라이트",
+    "pl": "Sodalit",
+    "pt": "sodalita",
+    "pt-br": "Sodalita",
+    "ru": "Содалит",
+    "uk": "Содаліт",
+    "zh": "方钠石"
+   },
+   "qid": "Q410759",
+   "titles": {
+    "dewiki": "Sodalith",
+    "eswiki": "Sodalita",
+    "frwiki": "Sodalite",
+    "itwiki": "Sodalite",
+    "jawiki": "方ソーダ石",
+    "kowiki": "소달라이트",
+    "plwiki": "Sodalit",
+    "ptwiki": "Sodalita",
+    "ruwiki": "Содалит",
+    "ukwiki": "Содаліт",
+    "zhwiki": "方钠石"
+   }
+  },
+  "Sphalerite Cleavage": null,
+  "Stilbite": null,
+  "Stony Meteorite": {
+   "description": "meteorite predominantly made of silicate minerals",
+   "en": "stony meteorite",
+   "labels": {
+    "de": "Steinmeteorit",
+    "en": "stony meteorite",
+    "es": "Meteorito rocoso",
+    "fr": "météorite pierreuse",
+    "it": "Aerolite",
+    "ja": "石質隕石",
+    "pl": "meteoryt kamienny",
+    "ru": "каменный метеорит",
+    "uk": "Кам'яні метеорити",
+    "zh": "石隕石"
+   },
+   "qid": "Q1640168",
+   "titles": {
+    "dewiki": "Steinmeteorit",
+    "eswiki": "Meteorito rocoso",
+    "frwiki": "Météorite pierreuse",
+    "jawiki": "石質隕石",
+    "plwiki": "Meteoryt kamienny",
+    "ukwiki": "Кам'яні метеорити"
+   }
+  },
+  "Stream Tin": null,
+  "Stromatolite": {
+   "description": "layered sedimentary rock structure of biological origin",
+   "en": "stromatolite",
+   "labels": {
+    "de": "Stromatolith",
+    "en": "stromatolite",
+    "es": "estromatolito",
+    "fr": "stromatolithe",
+    "it": "stromatolite",
+    "ja": "ストロマトライト",
+    "ko": "스트로마톨라이트",
+    "pl": "stromatolity",
+    "pt": "estromatólito",
+    "pt-br": "estromatólito",
+    "ru": "строматолиты",
+    "uk": "строматоліти",
+    "zh": "疊層石"
+   },
+   "qid": "Q176739",
+   "titles": {
+    "dewiki": "Stromatolith",
+    "eswiki": "Estromatolito",
+    "frwiki": "Stromatolithe",
+    "itwiki": "Stromatoliti",
+    "jawiki": "ストロマトライト",
+    "kowiki": "스트로마톨라이트",
+    "plwiki": "Stromatolity",
+    "ptwiki": "Estromatólito",
+    "ruwiki": "Строматолиты",
+    "ukwiki": "Строматоліти",
+    "zhwiki": "疊層石"
+   }
+  },
+  "Sugilite": {
+   "description": "cyclosilicate mineral",
+   "en": "sugilite",
+   "labels": {
+    "de": "Sugilith",
+    "en": "sugilite",
+    "es": "Sugilita",
+    "fr": "Sugilite",
+    "it": "sugilite",
+    "ja": "杉石",
+    "pl": "Sugilit",
+    "pt": "sugilite",
+    "ru": "сугилит",
+    "uk": "сугіліт",
+    "zh": "杉石",
+    "zh-cn": "杉石",
+    "zh-hans": "杉石"
+   },
+   "qid": "Q417368",
+   "titles": {
+    "dewiki": "Sugilith",
+    "eswiki": "Sugilita",
+    "frwiki": "Sugilite",
+    "itwiki": "Sugilite",
+    "jawiki": "杉石",
+    "plwiki": "Sugilit",
+    "ptwiki": "Sugilite",
+    "ruwiki": "Сугилит",
+    "ukwiki": "Сугіліт",
+    "zhwiki": "杉石"
+   }
+  },
+  "Sulfur Crystals": null,
+  "Sunstone": {
+   "description": "brown-orange plagioclase (oligoclase, mainly) feldspar variety with hematite",
+   "en": "sunstone",
+   "labels": {
+    "de": "Aventurin-Feldspat",
+    "en": "sunstone",
+    "fr": "héliolite",
+    "ja": "日長石",
+    "ko": "일장석",
+    "pl": "Kamień słoneczny",
+    "uk": "Сонячний камінь",
+    "zh": "太阳石"
+   },
+   "qid": "Q2729026",
+   "titles": {
+    "frwiki": "Héliolite",
+    "jawiki": "日長石",
+    "kowiki": "일장석",
+    "plwiki": "Kamień słoneczny",
+    "ukwiki": "Сонячний камінь",
+    "zhwiki": "太阳石"
+   }
+  },
+  "Sylvite": {
+   "description": "rocksalt group, halide mineral",
+   "en": "sylvite",
+   "labels": {
+    "de": "Sylvin",
+    "en": "sylvite",
+    "es": "silvina",
+    "fr": "Sylvine",
+    "it": "Silvite",
+    "ja": "カリ岩塩",
+    "pl": "sylwin",
+    "pt": "silvita",
+    "ru": "сильвин",
+    "uk": "сильвін",
+    "zh": "钾石盐",
+    "zh-cn": "钾石盐",
+    "zh-hans": "钾石盐"
+   },
+   "qid": "Q409091",
+   "titles": {
+    "dewiki": "Sylvin",
+    "eswiki": "Silvina",
+    "frwiki": "Sylvine (minéral)",
+    "itwiki": "Silvite",
+    "jawiki": "カリ岩塩",
+    "plwiki": "Sylwin (minerał)",
+    "ptwiki": "Silvina",
+    "ruwiki": "Сильвин",
+    "ukwiki": "Сильвін",
+    "zhwiki": "钾石盐"
+   }
+  },
+  "Talc": {
+   "description": "hydrous magnesium phyllosilicate mineral",
+   "en": "talc",
+   "labels": {
+    "de": "Talk",
+    "en": "talc",
+    "es": "talco",
+    "fr": "talc",
+    "it": "talco",
+    "ja": "滑石",
+    "ko": "활석",
+    "pl": "talk",
+    "pt": "talco",
+    "ru": "Тальк",
+    "uk": "Тальк",
+    "zh": "滑石",
+    "zh-cn": "滑石",
+    "zh-hans": "滑石"
+   },
+   "qid": "Q134583",
+   "titles": {
+    "dewiki": "Talk (Mineral)",
+    "eswiki": "Talco",
+    "frwiki": "Talc",
+    "itwiki": "Talco",
+    "jawiki": "滑石",
+    "kowiki": "활석",
+    "plwiki": "Talk",
+    "ptwiki": "Talco",
+    "ruwiki": "Тальк",
+    "ukwiki": "Тальк",
+    "zhwiki": "滑石"
+   }
+  },
+  "Tanzanite": {
+   "description": "blue to purple variety of the mineral zoisite",
+   "en": "tanzanite",
+   "labels": {
+    "de": "Tansanit",
+    "en": "tanzanite",
+    "es": "Tanzanita",
+    "fr": "tanzanite",
+    "it": "Tanzanite",
+    "ja": "タンザナイト",
+    "ko": "탄자나이트",
+    "pl": "Tanzanit",
+    "pt": "tanzanite",
+    "pt-br": "tanzanita",
+    "ru": "Танзанит",
+    "uk": "Танзаніт",
+    "zh": "坦桑石"
+   },
+   "qid": "Q429942",
+   "titles": {
+    "dewiki": "Tansanit",
+    "eswiki": "Tanzanita",
+    "frwiki": "Tanzanite",
+    "itwiki": "Tanzanite",
+    "jawiki": "タンザナイト",
+    "kowiki": "탄자나이트",
+    "plwiki": "Tanzanit",
+    "ptwiki": "Tanzanite",
+    "ruwiki": "Танзанит",
+    "ukwiki": "Танзаніт",
+    "zhwiki": "坦桑石"
+   }
+  },
+  "Tektite": {
+   "description": "glassy body formed by a meteorite impact",
+   "en": "tektite",
+   "labels": {
+    "de": "Tektit",
+    "en": "tektite",
+    "es": "tectita",
+    "fr": "tectite",
+    "it": "Tectite",
+    "ja": "テクタイト",
+    "ko": "텍타이트",
+    "pl": "Tektyty",
+    "pt": "tectito",
+    "pt-br": "Tectito",
+    "ru": "Тектит",
+    "uk": "Тектит",
+    "zh": "冲击玻璃",
+    "zh-cn": "冲击玻璃",
+    "zh-hans": "冲击玻璃"
+   },
+   "qid": "Q468438",
+   "titles": {
+    "dewiki": "Tektit",
+    "eswiki": "Tectita",
+    "frwiki": "Tectite",
+    "itwiki": "Tectite",
+    "jawiki": "テクタイト",
+    "kowiki": "텍타이트",
+    "plwiki": "Tektyty",
+    "ptwiki": "Tectito",
+    "ruwiki": "Тектиты",
+    "ukwiki": "Тектити",
+    "zhwiki": "似曜岩"
+   }
+  },
+  "Thenardite": {
+   "description": "anhydrous sodium sulfate mineral",
+   "en": "thénardite",
+   "labels": {
+    "de": "Thénardit",
+    "en": "thénardite",
+    "es": "Thenardita",
+    "fr": "Thénardite",
+    "it": "thénardite",
+    "pl": "Tenardyt",
+    "ru": "Тенардит",
+    "uk": "Тенардит",
+    "zh": "無水芒硝"
+   },
+   "qid": "Q419238",
+   "titles": {
+    "dewiki": "Thénardit",
+    "eswiki": "Thenardita",
+    "frwiki": "Thénardite",
+    "itwiki": "Thénardite",
+    "plwiki": "Tenardyt",
+    "ruwiki": "Тенардит",
+    "ukwiki": "Тенардит",
+    "zhwiki": "無水芒硝"
+   }
+  },
+  "Thulite": {
+   "description": "manganese-bearing, pink- to red-colored variety of the mineral zoisite",
+   "en": "Thulite",
+   "labels": {
+    "de": "Thulit",
+    "en": "Thulite",
+    "it": "Thulite",
+    "ja": "チューライト",
+    "pl": "Thulit",
+    "pt": "thulite",
+    "pt-br": "thulita",
+    "ru": "Тулит",
+    "uk": "Туліт",
+    "zh": "錳黝簾石"
+   },
+   "qid": "Q2529534",
+   "titles": {
+    "itwiki": "Thulite",
+    "plwiki": "Thulit",
+    "ruwiki": "Тулит",
+    "ukwiki": "Туліт"
+   }
+  },
+  "Tiger's Eye": {
+   "description": "mineral",
+   "en": "tiger's eye",
+   "labels": {
+    "de": "Tigerauge",
+    "en": "tiger's eye",
+    "es": "ojo de tigre",
+    "fr": "Œil de tigre",
+    "it": "Occhio di tigre",
+    "ja": "タイガーズアイ",
+    "ko": "호안석",
+    "pl": "Kwarcowe tygrysie oko",
+    "pt": "olho de tigre",
+    "pt-br": "olho de tigre",
+    "ru": "Тигровый глаз",
+    "uk": "Тигрове око",
+    "zh": "虎眼石",
+    "zh-cn": "虎眼石",
+    "zh-hans": "虎眼石"
+   },
+   "qid": "Q430007",
+   "titles": {
+    "dewiki": "Tigerauge",
+    "eswiki": "Ojo de tigre",
+    "frwiki": "Œil-de-tigre",
+    "itwiki": "Occhio di tigre",
+    "jawiki": "タイガーズアイ",
+    "kowiki": "호안석",
+    "plwiki": "Kwarcowe tygrysie oko",
+    "ptwiki": "Olho de tigre",
+    "ruwiki": "Тигровый глаз",
+    "ukwiki": "Тигрове око",
+    "zhwiki": "虎眼石"
+   }
+  },
+  "Travertine": {
+   "description": "form of terrestrial limestone deposited around mineral springs, especially hot springs",
+   "en": "travertine",
+   "labels": {
+    "de": "Travertin",
+    "en": "travertine",
+    "es": "travertino",
+    "fr": "travertin",
+    "it": "travertino",
+    "ja": "トラバーチン",
+    "ko": "트래버틴",
+    "pl": "trawertyn",
+    "pt": "travertino",
+    "pt-br": "Travertino",
+    "ru": "травертин",
+    "uk": "травертин",
+    "zh": "洞石",
+    "zh-cn": "洞石",
+    "zh-hans": "洞石"
+   },
+   "qid": "Q187156",
+   "titles": {
+    "dewiki": "Travertin",
+    "eswiki": "Travertino",
+    "frwiki": "Travertin",
+    "itwiki": "Travertino",
+    "jawiki": "トラバーチン",
+    "kowiki": "트래버틴",
+    "plwiki": "Trawertyn",
+    "ptwiki": "Travertino",
+    "ruwiki": "Травертин",
+    "ukwiki": "Травертин",
+    "zhwiki": "洞石"
+   }
+  },
+  "Trona": {
+   "description": "hydrous sodium carbonate mineral",
+   "en": "trona",
+   "labels": {
+    "de": "Trona",
+    "en": "trona",
+    "es": "Trona",
+    "fr": "Trona",
+    "it": "Trona",
+    "ja": "トロナ",
+    "pl": "Trona",
+    "pt": "trona",
+    "ru": "Трона",
+    "uk": "Трона"
+   },
+   "qid": "Q253023",
+   "titles": {
+    "dewiki": "Trona (Mineral)",
+    "eswiki": "Trona (mineral)",
+    "frwiki": "Trona",
+    "itwiki": "Trona",
+    "jawiki": "トロナ",
+    "plwiki": "Trona (minerał)",
+    "ptwiki": "Trona",
+    "ruwiki": "Трона",
+    "ukwiki": "Трона"
+   }
+  },
+  "Ulexite": {
+   "description": "nesoborate mineral",
+   "en": "ulexite",
+   "labels": {
+    "de": "Ulexit",
+    "en": "ulexite",
+    "es": "ulexita",
+    "fr": "Uléxite",
+    "it": "Ulexite",
+    "ja": "ウレキサイト",
+    "ko": "조회붕석",
+    "pl": "Uleksyt",
+    "pt": "ulexita",
+    "ru": "улексит",
+    "uk": "Улексит",
+    "zh": "冰硼钠石",
+    "zh-cn": "冰硼钠石",
+    "zh-hans": "冰硼钠石"
+   },
+   "qid": "Q409611",
+   "titles": {
+    "dewiki": "Ulexit",
+    "eswiki": "Ulexita",
+    "frwiki": "Ulexite",
+    "itwiki": "Ulexite",
+    "jawiki": "ウレキサイト",
+    "plwiki": "Uleksyt",
+    "ptwiki": "Ulexita",
+    "ruwiki": "Улексит",
+    "ukwiki": "Улексит",
+    "zhwiki": "硼钠解石"
+   }
+  },
+  "Vanadinite": {
+   "description": "apatite supergroup, vanadate mineral",
+   "en": "vanadinite",
+   "labels": {
+    "de": "Vanadinit",
+    "en": "vanadinite",
+    "es": "vanadinita",
+    "fr": "Vanadinite",
+    "it": "Vanadinite",
+    "ja": "褐鉛鉱",
+    "pl": "Wanadynit",
+    "pt": "vanadinita",
+    "ru": "ванадинит",
+    "uk": "ванадиніт",
+    "zh": "钒铅矿",
+    "zh-cn": "钒铅矿",
+    "zh-hans": "钒铅矿"
+   },
+   "qid": "Q407251",
+   "titles": {
+    "dewiki": "Vanadinit",
+    "eswiki": "Vanadinita",
+    "frwiki": "Vanadinite",
+    "itwiki": "Vanadinite",
+    "jawiki": "褐鉛鉱",
+    "plwiki": "Wanadynit",
+    "ptwiki": "Vanadinita",
+    "ruwiki": "Ванадинит",
+    "ukwiki": "Ванадиніт",
+    "zhwiki": "钒铅矿"
+   }
+  },
+  "Variscite": {
+   "description": "hydrous aluminium phosphate",
+   "en": "variscite",
+   "labels": {
+    "de": "Variscit",
+    "en": "variscite",
+    "es": "variscita",
+    "fr": "variscite",
+    "it": "Variscite",
+    "ja": "バリサイト",
+    "pl": "Waryscyt",
+    "ru": "Варисцит",
+    "uk": "Варисцит",
+    "zh": "磷铝石",
+    "zh-cn": "磷铝石",
+    "zh-hans": "磷铝石"
+   },
+   "qid": "Q415544",
+   "titles": {
+    "dewiki": "Variscit",
+    "eswiki": "Variscita",
+    "frwiki": "Variscite",
+    "itwiki": "Variscite",
+    "jawiki": "バリサイト",
+    "plwiki": "Waryscyt",
+    "ruwiki": "Варисцит",
+    "ukwiki": "Варисцит"
+   }
+  },
+  "Vase Shard": null,
+  "Verde Antique": null,
+  "Volcanic Crust": null,
+  "Watermelon Tourmaline": null,
+  "White Moonstone": null,
+  "Willemite": {
+   "description": "nesosilicate mineral",
+   "en": "willemite",
+   "labels": {
+    "de": "Willemit",
+    "en": "willemite",
+    "es": "Willemita",
+    "fr": "Willemite",
+    "it": "Willemite",
+    "ja": "トルースタイト",
+    "pl": "Willemit",
+    "ru": "Виллемит",
+    "uk": "Вілеміт",
+    "zh": "原矽酸鋅"
+   },
+   "qid": "Q409139",
+   "titles": {
+    "dewiki": "Willemit",
+    "eswiki": "Willemita",
+    "frwiki": "Willémite",
+    "itwiki": "Willemite",
+    "jawiki": "珪亜鉛鉱",
+    "plwiki": "Willemit",
+    "ruwiki": "Виллемит",
+    "ukwiki": "Віллеміт",
+    "zhwiki": "矽鋅礦"
+   }
+  },
+  "Wood Tin": null,
+  "Wulfenite": {
+   "description": "molybdate mineral",
+   "en": "wulfenite",
+   "labels": {
+    "de": "Wulfenit",
+    "en": "wulfenite",
+    "es": "wulfenita",
+    "fr": "wulfénite",
+    "it": "Wulfenite",
+    "ja": "モリブデン鉛鉱",
+    "pl": "Wulfenit",
+    "pt": "wulfenite",
+    "ru": "Вульфенит",
+    "uk": "Вульфеніт",
+    "zh": "钼铅矿"
+   },
+   "qid": "Q421092",
+   "titles": {
+    "dewiki": "Wulfenit",
+    "eswiki": "Wulfenita",
+    "frwiki": "Wulfénite",
+    "itwiki": "Wulfenite",
+    "jawiki": "ウルフェナイト",
+    "plwiki": "Wulfenit",
+    "ptwiki": "Wulfenite",
+    "ruwiki": "Вульфенит",
+    "ukwiki": "Вульфеніт",
+    "zhwiki": "鉬鉛礦"
+   }
+  },
+  "Yellow Fluorite": null,
+  "Yellow Jasper": null,
+  "Yellow Turquoise": null
+ }
+}
